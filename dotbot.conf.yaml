@@ -29,6 +29,9 @@
       path: mpd/mpd.socket
       create: true
       force: true
+    ~/.config/mpd/mpd.conf:
+      path: mpd/mpd.conf
+      create: true
     ~/.ncmpcpp/config:
       create: true
       path: ncmpcpp/config
