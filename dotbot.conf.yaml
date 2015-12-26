@@ -19,11 +19,6 @@
       path: zsh/03-zshrc
     ~/.zlogin: zsh/04-zlogin
     ~/.zlogout: zsh/05-zlogout
-    # Newsbeuter
-    ~/.config/newsbeuter: newsbeuter/
-
-    # E-mail
-    ~/.mbsyncrc: mail/mbsyncrc
 
     # dunst
     ~/.config/dunst/dunstrc:
@@ -34,9 +29,9 @@
       path: mpd/mpd.socket
       create: true
       force: true
-    ~/.mpdscribble/mpdscribble.conf:
+    ~/.ncmpcpp/config:
       create: true
-      path: mpdscribble/mpdscribble.conf
+      path: ncmpcpp/config
     # MPV
     ~/.config/mpv/config:
       create: true
@@ -58,7 +53,18 @@
     # connman
     ~/.config/systemd/user/connman-notify.service: connman/connman-notify.service
 
-    # XCompose
-    ~/.XCompose: XCompose
-    # latexmk
-    ~/.latexmkrc: latexmkrc
+    #conky
+    ~/.conkyrc:
+      path: conky/conkyrc
+      create: true
+
+    #openbox
+    ~/config/openbox: openbox
+
+    #tint2
+    ~/.config/tint2: tint2
+
+    #vifm
+    ~/config/vifm: vifm
+
+
