@@ -14,3 +14,6 @@
 #[submodule "zsh"]
 #	path = zsh
 #	url = git@github.com:balthmort/zsh-config.git
+[submodule "tpm"]
+	path = tpm
+	url = https://github.com/tmux-plugins/tpm.git
