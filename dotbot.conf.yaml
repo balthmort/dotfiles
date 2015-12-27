@@ -70,4 +70,5 @@
     #vifm
     ~/.config/vifm: vifm
 
-
+    #scripts
+    ~/.config/scripts: scripts
