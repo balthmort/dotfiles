@@ -48,7 +48,7 @@
     ~/.tmux.conf:
       path: tmux/tmux.conf
       force: true
-    ~/.tmux/plugins/tpm: tmp
+    ~/.tmux/plugins/tpm: tpm
     # udiskie
     ~/.config/udiskie: udiskie/
     ~/.config/systemd/user/udiskie.service:
