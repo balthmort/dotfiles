@@ -2,15 +2,15 @@
 	path = dotbot
 	url = https://github.com/anishathalye/dotbot.git
   ignore = dirty
-#[submodule "vim"]
-#	path = vim
-#	url = https://github.com/balthmort/vim-config.git
-#[submodule "zsh"]
-#	path = zsh
-#	url = https://github.com/balthmort/zsh-config.git
 [submodule "vim"]
 	path = vim
-	url = git@github.com:balthmort/vim-config.git
+	url = https://github.com/balthmort/vim-config.git
 [submodule "zsh"]
 	path = zsh
-	url = git@github.com:balthmort/zsh-config.git
+	url = https://github.com/balthmort/zsh-config.git
+#[submodule "vim"]
+#	path = vim
+#	url = git@github.com:balthmort/vim-config.git
+#[submodule "zsh"]
+#	path = zsh
+#	url = git@github.com:balthmort/zsh-config.git
