@@ -62,12 +62,12 @@
       create: true
 
     #openbox
-    ~/config/openbox: openbox
+    ~/.config/openbox: openbox
 
     #tint2
     ~/.config/tint2: tint2
 
     #vifm
-    ~/config/vifm: vifm
+    ~/.config/vifm: vifm
 
 
