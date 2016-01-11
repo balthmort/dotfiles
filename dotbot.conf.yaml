@@ -49,7 +49,7 @@
       path: tmux/tmux.conf
       force: true
     ~/.tmux/plugins/tpm: 
-      path: tpm
+      path: tmux/tpm
       create: true
     # udiskie
     ~/.config/udiskie: udiskie/

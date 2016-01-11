@@ -9,5 +9,5 @@
 	path = zsh
 	url = https://github.com/balthmort/zsh-config.git
 [submodule "tpm"]
-	path = tpm
+	path = tmux/tpm
 	url = https://github.com/tmux-plugins/tpm.git
