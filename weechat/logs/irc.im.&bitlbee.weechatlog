@@ -1,0 +1,377 @@
+2016-02-02 01:16:26	-->	mort (mort@localhost) has joined &bitlbee
+2016-02-02 01:16:26	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-02-02 01:16:26	--	Téma nastavil root (root@localhost) v Út, 02 úno 2016 01:16:26
+2016-02-02 01:16:26	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-02-02 01:16:26	@root	Welcome to the BitlBee gateway!
+2016-02-02 01:16:26	@root	 
+2016-02-02 01:16:26	@root	Running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git
+2016-02-02 01:16:26	@root	 
+2016-02-02 01:16:26	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-02-02 01:16:26	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-02-02 01:22:46	-->	mort (mort@localhost) has joined &bitlbee
+2016-02-02 01:22:46	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-02-02 01:22:46	--	Téma nastavil root (root@localhost) v Út, 02 úno 2016 01:22:46
+2016-02-02 01:22:46	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-02-02 01:22:46	@root	Welcome to the BitlBee gateway!
+2016-02-02 01:22:46	@root	 
+2016-02-02 01:22:46	@root	Running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git
+2016-02-02 01:22:46	@root	 
+2016-02-02 01:22:46	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-02-02 01:22:46	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-02-02 01:22:46	@root	Password accepted, settings and accounts loaded
+2016-02-02 01:22:46	@root	Trying to get all accounts connected...
+2016-02-02 01:22:46	@root	jabber - Logging in: Connecting
+2016-02-02 01:22:46	@root	jabber - Logging in: Initializing Stream
+2016-02-02 01:22:46	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-02 01:22:47	@root	jabber - Logging in: Initializing Stream
+2016-02-02 01:22:47	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-02 01:22:47	@root	jabber - Logging in: Authenticating
+2016-02-02 01:22:47	@root	jabber - Logging in: Re-initializing Stream
+2016-02-02 01:22:47	@root	jabber - Logging in: Logged in
+2016-02-02 01:22:48	-->	stepanvenclik (stepan.venclik@gmail.com) has joined &bitlbee
+2016-02-02 01:22:48	-->	_2hy437gq6ahyh1j6q0184s (2hy437gq6ahyh1j6q0184sevgz@public.talk.google.com) has joined &bitlbee
+2016-02-02 01:22:48	-->	aegnor (aegnor@jabber.cz) has joined &bitlbee
+2016-02-02 01:22:48	--	Mód &bitlbee [+v aegnor] od localhost
+2016-02-02 01:25:09	-->	mort (mort@localhost) has joined &bitlbee
+2016-02-02 01:25:09	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-02-02 01:25:09	--	Téma nastavil root (root@localhost) v Út, 02 úno 2016 01:25:09
+2016-02-02 01:25:09	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-02-02 01:25:09	@root	Welcome to the BitlBee gateway!
+2016-02-02 01:25:09	@root	 
+2016-02-02 01:25:09	@root	Running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git
+2016-02-02 01:25:09	@root	 
+2016-02-02 01:25:09	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-02-02 01:25:09	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-02-02 01:25:09	@root	Password accepted, settings and accounts loaded
+2016-02-02 01:25:09	@root	Trying to get all accounts connected...
+2016-02-02 01:25:09	@root	jabber - Logging in: Connecting
+2016-02-02 01:25:09	@root	jabber - Logging in: Initializing Stream
+2016-02-02 01:25:09	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-02 01:25:09	@root	jabber - Logging in: Initializing Stream
+2016-02-02 01:25:09	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-02 01:25:09	@root	jabber - Logging in: Authenticating
+2016-02-02 01:25:09	@root	jabber - Logging in: Re-initializing Stream
+2016-02-02 01:25:10	@root	jabber - Logging in: Logged in
+2016-02-02 01:25:10	-->	stepanvenclik (stepan.venclik@gmail.com) has joined &bitlbee
+2016-02-02 01:25:10	-->	_2hy437gq6ahyh1j6q0184s (2hy437gq6ahyh1j6q0184sevgz@public.talk.google.com) has joined &bitlbee
+2016-02-02 01:25:10	-->	aegnor (aegnor@jabber.cz) has joined &bitlbee
+2016-02-02 01:25:10	--	Mód &bitlbee [+v aegnor] od localhost
+2016-02-02 01:28:57	-->	mort (mort@localhost) has joined &bitlbee
+2016-02-02 01:28:57	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-02-02 01:28:57	--	Téma nastavil root (root@localhost) v Út, 02 úno 2016 01:28:57
+2016-02-02 01:28:57	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-02-02 01:28:57	@root	Welcome to the BitlBee gateway!
+2016-02-02 01:28:57	@root	 
+2016-02-02 01:28:57	@root	Running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git
+2016-02-02 01:28:57	@root	 
+2016-02-02 01:28:57	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-02-02 01:28:57	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-02-02 01:28:57	@root	About to identify, use /OPER to enter the password
+2016-02-02 01:29:38	-->	mort (mort@localhost) has joined &bitlbee
+2016-02-02 01:29:38	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-02-02 01:29:38	--	Téma nastavil root (root@localhost) v Út, 02 úno 2016 01:29:38
+2016-02-02 01:29:38	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-02-02 01:29:38	@root	Welcome to the BitlBee gateway!
+2016-02-02 01:29:38	@root	 
+2016-02-02 01:29:38	@root	Running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git
+2016-02-02 01:29:38	@root	 
+2016-02-02 01:29:38	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-02-02 01:29:38	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-02-02 01:29:38	@root	Incorrect password
+2016-02-02 01:30:38	-->	mort (mort@localhost) has joined &bitlbee
+2016-02-02 01:30:38	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-02-02 01:30:38	--	Téma nastavil root (root@localhost) v Út, 02 úno 2016 01:30:38
+2016-02-02 01:30:38	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-02-02 01:30:38	@root	Welcome to the BitlBee gateway!
+2016-02-02 01:30:38	@root	 
+2016-02-02 01:30:38	@root	Running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git
+2016-02-02 01:30:38	@root	 
+2016-02-02 01:30:38	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-02-02 01:30:38	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-02-02 01:30:38	@root	Incorrect password
+2016-02-02 01:31:25	-->	mort (mort@localhost) has joined &bitlbee
+2016-02-02 01:31:25	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-02-02 01:31:25	--	Téma nastavil root (root@localhost) v Út, 02 úno 2016 01:31:25
+2016-02-02 01:31:25	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-02-02 01:31:25	@root	Welcome to the BitlBee gateway!
+2016-02-02 01:31:25	@root	 
+2016-02-02 01:31:25	@root	Running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git
+2016-02-02 01:31:25	@root	 
+2016-02-02 01:31:25	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-02-02 01:31:25	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-02-02 01:31:25	@root	Password accepted, settings and accounts loaded
+2016-02-02 01:31:25	@root	Trying to get all accounts connected...
+2016-02-02 01:31:25	@root	jabber - Logging in: Connecting
+2016-02-02 01:31:25	@root	jabber - Logging in: Initializing Stream
+2016-02-02 01:31:25	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-02 01:31:25	@root	jabber - Logging in: Initializing Stream
+2016-02-02 01:31:25	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-02 01:31:25	@root	jabber - Logging in: Authenticating
+2016-02-02 01:31:25	@root	jabber - Logging in: Re-initializing Stream
+2016-02-02 01:31:26	@root	jabber - Logging in: Logged in
+2016-02-02 01:31:26	-->	stepanvenclik (stepan.venclik@gmail.com) has joined &bitlbee
+2016-02-02 01:31:26	-->	_2hy437gq6ahyh1j6q0184s (2hy437gq6ahyh1j6q0184sevgz@public.talk.google.com) has joined &bitlbee
+2016-02-02 01:31:26	-->	aegnor (aegnor@jabber.cz) has joined &bitlbee
+2016-02-02 01:31:26	--	Mód &bitlbee [+v aegnor] od localhost
+2016-02-02 01:48:10		[mort away: "GwtB"]
+2016-02-02 01:51:33		[mort back: gone 00:03:23]
+2016-02-02 16:29:58	-->	mort (mort@localhost) has joined &bitlbee
+2016-02-02 16:29:58	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-02-02 16:29:58	--	Téma nastavil root (root@localhost) v Út, 02 úno 2016 16:29:58
+2016-02-02 16:29:58	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-02-02 16:29:58	@root	Welcome to the BitlBee gateway!
+2016-02-02 16:29:58	@root	 
+2016-02-02 16:29:58	@root	Running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git
+2016-02-02 16:29:58	@root	 
+2016-02-02 16:29:58	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-02-02 16:29:58	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-02-02 16:29:58	@root	Password accepted, settings and accounts loaded
+2016-02-02 16:29:59	@root	Trying to get all accounts connected...
+2016-02-02 16:29:59	@root	jabber - Logging in: Connecting
+2016-02-02 16:29:59	@root	jabber - Logging in: Initializing Stream
+2016-02-02 16:29:59	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-02 16:29:59	@root	jabber - Logging in: Initializing Stream
+2016-02-02 16:29:59	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-02 16:29:59	@root	jabber - Logging in: Authenticating
+2016-02-02 16:29:59	@root	jabber - Logging in: Re-initializing Stream
+2016-02-02 16:30:00	@root	jabber - Logging in: Logged in
+2016-02-02 16:30:00	-->	_2hy437gq6ahyh1j6q0184s (2hy437gq6ahyh1j6q0184sevgz@public.talk.google.com) has joined &bitlbee
+2016-02-02 16:30:00	-->	stepanvenclik (stepan.venclik@gmail.com) has joined &bitlbee
+2016-02-03 13:09:02	-->	mort (mort@localhost) has joined &bitlbee
+2016-02-03 13:09:02	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-02-03 13:09:02	--	Téma nastavil root (root@localhost) v St, 03 úno 2016 13:09:02
+2016-02-03 13:09:02	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-02-03 13:09:02	@root	Welcome to the BitlBee gateway!
+2016-02-03 13:09:02	@root	 
+2016-02-03 13:09:02	@root	Running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git
+2016-02-03 13:09:02	@root	 
+2016-02-03 13:09:02	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-02-03 13:09:02	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-02-03 13:09:02	@root	Password accepted, settings and accounts loaded
+2016-02-03 13:09:02	@root	Trying to get all accounts connected...
+2016-02-03 13:09:02	@root	jabber - Logging in: Connecting
+2016-02-03 13:09:02	@root	jabber - Logging in: Initializing Stream
+2016-02-03 13:09:02	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-03 13:09:02	@root	jabber - Logging in: Initializing Stream
+2016-02-03 13:09:02	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-03 13:09:02	@root	jabber - Logging in: Authenticating
+2016-02-03 13:09:02	@root	jabber - Logging in: Re-initializing Stream
+2016-02-03 13:09:03	@root	jabber - Logging in: Logged in
+2016-02-03 13:09:03	-->	stepanvenclik (stepan.venclik@gmail.com) has joined &bitlbee
+2016-02-03 13:09:03	-->	_2hy437gq6ahyh1j6q0184s (2hy437gq6ahyh1j6q0184sevgz@public.talk.google.com) has joined &bitlbee
+2016-02-08 13:04:07	-->	mort (mort@localhost) has joined &bitlbee
+2016-02-08 13:04:07	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-02-08 13:04:07	--	Téma nastavil root (root@localhost) v Po, 08 úno 2016 13:04:07
+2016-02-08 13:04:07	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-02-08 13:04:07	@root	Welcome to the BitlBee gateway!
+2016-02-08 13:04:07	@root	 
+2016-02-08 13:04:07	@root	Running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git
+2016-02-08 13:04:07	@root	 
+2016-02-08 13:04:07	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-02-08 13:04:07	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-02-08 13:04:07	@root	Password accepted, settings and accounts loaded
+2016-02-08 13:04:08	@root	Trying to get all accounts connected...
+2016-02-08 13:04:08	@root	jabber - Logging in: Connecting
+2016-02-08 13:04:08	@root	jabber - Logging in: Initializing Stream
+2016-02-08 13:04:08	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-08 13:04:08	@root	jabber - Logging in: Initializing Stream
+2016-02-08 13:04:08	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-08 13:04:08	@root	jabber - Logging in: Authenticating
+2016-02-08 13:04:08	@root	jabber - Logging in: Re-initializing Stream
+2016-02-08 13:04:09	@root	jabber - Logging in: Logged in
+2016-02-08 13:04:09	-->	stepanvenclik (stepan.venclik@gmail.com) has joined &bitlbee
+2016-02-08 13:04:09	-->	_2hy437gq6ahyh1j6q0184s (2hy437gq6ahyh1j6q0184sevgz@public.talk.google.com) has joined &bitlbee
+2016-02-09 11:44:05	-->	mort (mort@localhost) has joined &bitlbee
+2016-02-09 11:44:05	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-02-09 11:44:05	--	Téma nastavil root (root@localhost) v Út, 09 úno 2016 11:44:05
+2016-02-09 11:44:05	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-02-09 11:44:05	@root	Welcome to the BitlBee gateway!
+2016-02-09 11:44:05	@root	 
+2016-02-09 11:44:05	@root	Running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git
+2016-02-09 11:44:05	@root	 
+2016-02-09 11:44:05	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-02-09 11:44:05	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-02-09 11:44:05	@root	Password accepted, settings and accounts loaded
+2016-02-09 11:44:06	@root	Trying to get all accounts connected...
+2016-02-09 11:44:06	@root	jabber - Logging in: Connecting
+2016-02-09 11:44:06	@root	jabber - Logging in: Initializing Stream
+2016-02-09 11:44:06	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-09 11:44:06	@root	jabber - Logging in: Initializing Stream
+2016-02-09 11:44:06	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-09 11:44:06	@root	jabber - Logging in: Authenticating
+2016-02-09 11:44:06	@root	jabber - Logging in: Re-initializing Stream
+2016-02-09 11:44:07	@root	jabber - Logging in: Logged in
+2016-02-09 11:44:07	-->	_2hy437gq6ahyh1j6q0184s (2hy437gq6ahyh1j6q0184sevgz@public.talk.google.com) has joined &bitlbee
+2016-02-09 11:44:07	-->	stepanvenclik (stepan.venclik@gmail.com) has joined &bitlbee
+2016-02-09 17:53:21	-->	mort (mort@localhost) has joined &bitlbee
+2016-02-09 17:53:21	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-02-09 17:53:21	--	Téma nastavil root (root@localhost) v Út, 09 úno 2016 17:53:21
+2016-02-09 17:53:21	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-02-09 17:53:21	@root	Welcome to the BitlBee gateway!
+2016-02-09 17:53:21	@root	 
+2016-02-09 17:53:21	@root	Running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git
+2016-02-09 17:53:21	@root	 
+2016-02-09 17:53:21	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-02-09 17:53:21	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-02-09 17:53:21	@root	Password accepted, settings and accounts loaded
+2016-02-09 17:53:21	@root	Trying to get all accounts connected...
+2016-02-09 17:53:21	@root	jabber - Logging in: Connecting
+2016-02-09 17:53:21	@root	jabber - Logging in: Initializing Stream
+2016-02-09 17:53:21	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-09 17:53:21	@root	jabber - Logging in: Initializing Stream
+2016-02-09 17:53:21	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-09 17:53:21	@root	jabber - Logging in: Authenticating
+2016-02-09 17:53:21	@root	jabber - Logging in: Re-initializing Stream
+2016-02-09 17:53:22	@root	jabber - Logging in: Logged in
+2016-02-09 17:53:22	-->	stepanvenclik (stepan.venclik@gmail.com) has joined &bitlbee
+2016-02-09 17:53:22	-->	_2hy437gq6ahyh1j6q0184s (2hy437gq6ahyh1j6q0184sevgz@public.talk.google.com) has joined &bitlbee
+2016-02-13 22:48:27	-->	mort (mort@localhost) has joined &bitlbee
+2016-02-13 22:48:27	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-02-13 22:48:27	--	Téma nastavil root (root@localhost) v So, 13 úno 2016 22:48:27
+2016-02-13 22:48:27	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-02-13 22:48:27	@root	Welcome to the BitlBee gateway!
+2016-02-13 22:48:27	@root	 
+2016-02-13 22:48:27	@root	Running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git
+2016-02-13 22:48:27	@root	 
+2016-02-13 22:48:27	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-02-13 22:48:27	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-02-13 22:48:27	@root	Password accepted, settings and accounts loaded
+2016-02-13 22:48:28	@root	Trying to get all accounts connected...
+2016-02-13 22:48:28	@root	jabber - Logging in: Connecting
+2016-02-13 22:48:28	@root	jabber - Logging in: Initializing Stream
+2016-02-13 22:48:28	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-13 22:48:28	@root	jabber - Logging in: Initializing Stream
+2016-02-13 22:48:28	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-13 22:48:29	@root	jabber - Logging in: Authenticating
+2016-02-13 22:48:29	@root	jabber - Logging in: Re-initializing Stream
+2016-02-13 22:48:29	@root	jabber - Logging in: Logged in
+2016-02-13 22:48:29	-->	stepanvenclik (stepan.venclik@gmail.com) has joined &bitlbee
+2016-02-13 22:48:29	-->	_2hy437gq6ahyh1j6q0184s (2hy437gq6ahyh1j6q0184sevgz@public.talk.google.com) has joined &bitlbee
+2016-02-13 22:48:29	-->	aegnor (aegnor@jabber.cz) has joined &bitlbee
+2016-02-13 22:48:29	--	Mód &bitlbee [+v aegnor] od localhost
+2016-02-13 22:49:02	-->	khardix (khardix@isgeek.info) has joined &bitlbee
+2016-02-13 22:49:02	--	Mód &bitlbee [+v khardix] od localhost
+2016-02-16 21:18:43	-->	mort (mort@localhost) has joined &bitlbee
+2016-02-16 21:18:43	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-02-16 21:18:43	--	Téma nastavil root (root@localhost) v Út, 16 úno 2016 21:18:43
+2016-02-16 21:18:43	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-02-16 21:18:43	@root	Welcome to the BitlBee gateway!
+2016-02-16 21:18:43	@root	 
+2016-02-16 21:18:43	@root	Running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git
+2016-02-16 21:18:43	@root	 
+2016-02-16 21:18:43	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-02-16 21:18:43	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-02-16 21:18:43	@root	Password accepted, settings and accounts loaded
+2016-02-16 21:18:43	@root	Trying to get all accounts connected...
+2016-02-16 21:18:43	@root	jabber - Logging in: Connecting
+2016-02-16 21:18:43	@root	jabber - Logging in: Initializing Stream
+2016-02-16 21:18:43	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-16 21:18:44	@root	jabber - Logging in: Initializing Stream
+2016-02-16 21:18:44	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-16 21:18:44	@root	jabber - Logging in: Authenticating
+2016-02-16 21:18:44	@root	jabber - Logging in: Re-initializing Stream
+2016-02-16 21:18:44	@root	jabber - Logging in: Logged in
+2016-02-16 21:18:44	-->	_2hy437gq6ahyh1j6q0184s (2hy437gq6ahyh1j6q0184sevgz@public.talk.google.com) has joined &bitlbee
+2016-02-16 21:18:45	-->	aegnor (aegnor@jabber.cz) has joined &bitlbee
+2016-02-16 21:18:45	--	Mód &bitlbee [+v aegnor] od localhost
+2016-02-16 21:18:45	-->	khardix (khardix@isgeek.info) has joined &bitlbee
+2016-02-16 21:18:45	-->	stepanvenclik (stepan.venclik@gmail.com) has joined &bitlbee
+2016-02-16 23:03:21	<--	aegnor (aegnor@jabber.cz) skončil (Leaving...)
+2016-02-16 23:03:27	-->	aegnor (aegnor@jabber.cz) has joined &bitlbee
+2016-02-16 23:03:27	--	Mód &bitlbee [+v aegnor] od localhost
+2016-02-16 23:35:58	<--	aegnor (aegnor@jabber.cz) skončil (Leaving...)
+2016-02-24 12:54:05	-->	mort (mort@localhost) has joined &bitlbee
+2016-02-24 12:54:05	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-02-24 12:54:05	--	Téma nastavil root (root@localhost) v St, 24 úno 2016 12:54:05
+2016-02-24 12:54:05	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-02-24 12:54:05	@root	Welcome to the BitlBee gateway!
+2016-02-24 12:54:05	@root	 
+2016-02-24 12:54:05	@root	Running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git
+2016-02-24 12:54:05	@root	 
+2016-02-24 12:54:05	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-02-24 12:54:05	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-02-24 12:54:05	@root	Password accepted, settings and accounts loaded
+2016-02-24 12:54:05	@root	Trying to get all accounts connected...
+2016-02-24 12:54:05	@root	jabber - Logging in: Connecting
+2016-02-24 12:54:05	@root	jabber - Logging in: Initializing Stream
+2016-02-24 12:54:05	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-24 12:54:05	@root	jabber - Logging in: Initializing Stream
+2016-02-24 12:54:05	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-24 12:54:05	@root	jabber - Logging in: Authenticating
+2016-02-24 12:54:05	@root	jabber - Logging in: Re-initializing Stream
+2016-02-24 12:54:06	@root	jabber - Logging in: Logged in
+2016-02-24 12:54:06	-->	stepanvenclik (stepan.venclik@gmail.com) has joined &bitlbee
+2016-02-24 12:54:06	-->	_2hy437gq6ahyh1j6q0184s (2hy437gq6ahyh1j6q0184sevgz@public.talk.google.com) has joined &bitlbee
+2016-02-24 12:54:06	-->	aegnor (aegnor@jabber.cz) has joined &bitlbee
+2016-02-24 12:54:06	--	Mód &bitlbee [+v aegnor] od localhost
+2016-02-24 14:15:01	-->	khardix (khardix@isgeek.info) has joined &bitlbee
+2016-02-24 14:15:01	--	Mód &bitlbee [+v khardix] od localhost
+2016-02-24 14:31:46	<--	aegnor (aegnor@jabber.cz) skončil (Leaving...)
+2016-02-24 15:20:55	-->	aegnor (aegnor@jabber.cz) has joined &bitlbee
+2016-02-24 15:20:55	--	Mód &bitlbee [+v aegnor] od localhost
+2016-02-24 15:25:00	<--	khardix (khardix@isgeek.info) skončil (Leaving...)
+2016-02-24 15:25:56	-->	khardix (khardix@isgeek.info) has joined &bitlbee
+2016-02-24 15:25:56	--	Mód &bitlbee [+v khardix] od localhost
+2016-02-24 15:56:24	-->	mort (mort@localhost) has joined &bitlbee
+2016-02-24 15:56:24	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-02-24 15:56:24	--	Téma nastavil root (root@localhost) v St, 24 úno 2016 15:56:24
+2016-02-24 15:56:24	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-02-24 15:56:24	@root	Welcome to the BitlBee gateway!
+2016-02-24 15:56:24	@root	 
+2016-02-24 15:56:24	@root	Running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git
+2016-02-24 15:56:24	@root	 
+2016-02-24 15:56:24	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-02-24 15:56:24	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-02-24 15:56:24	@root	Password accepted, settings and accounts loaded
+2016-02-24 15:56:24	@root	Trying to get all accounts connected...
+2016-02-24 15:56:24	@root	jabber - Logging in: Connecting
+2016-02-24 15:56:25	@root	jabber - Logging in: Initializing Stream
+2016-02-24 15:56:25	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-24 15:56:25	@root	jabber - Logging in: Initializing Stream
+2016-02-24 15:56:25	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-24 15:56:25	@root	jabber - Logging in: Authenticating
+2016-02-24 15:56:25	@root	jabber - Logging in: Re-initializing Stream
+2016-02-24 15:56:25	@root	jabber - Logging in: Logged in
+2016-02-24 15:56:26	-->	stepanvenclik (stepan.venclik@gmail.com) has joined &bitlbee
+2016-02-24 15:56:26	-->	_2hy437gq6ahyh1j6q0184s (2hy437gq6ahyh1j6q0184sevgz@public.talk.google.com) has joined &bitlbee
+2016-02-24 15:56:26	-->	aegnor (aegnor@jabber.cz) has joined &bitlbee
+2016-02-24 15:56:26	--	Mód &bitlbee [+v aegnor] od localhost
+2016-02-24 15:56:26	-->	khardix (khardix@isgeek.info) has joined &bitlbee
+2016-02-24 15:56:26	--	Mód &bitlbee [+v khardix] od localhost
+2016-02-24 16:04:35	-->	mort (mort@localhost) has joined &bitlbee
+2016-02-24 16:04:35	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-02-24 16:04:35	--	Téma nastavil root (root@localhost) v St, 24 úno 2016 16:04:35
+2016-02-24 16:04:35	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-02-24 16:04:35	@root	Welcome to the BitlBee gateway!
+2016-02-24 16:04:35	@root	 
+2016-02-24 16:04:35	@root	Running BitlBee 3.4.1+20160218+master+135-g242f280-git
+2016-02-24 16:04:35	@root	 
+2016-02-24 16:04:35	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-02-24 16:04:35	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-02-24 16:04:35	@root	The nick is (probably) not registered
+2016-02-24 16:06:18	-->	mort (mort@localhost) has joined &bitlbee
+2016-02-24 16:06:18	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-02-24 16:06:18	--	Téma nastavil root (root@localhost) v St, 24 úno 2016 16:06:18
+2016-02-24 16:06:18	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-02-24 16:06:18	@root	Welcome to the BitlBee gateway!
+2016-02-24 16:06:18	@root	 
+2016-02-24 16:06:18	@root	Running BitlBee 3.4.1+20160218+master+135-g242f280-git
+2016-02-24 16:06:18	@root	 
+2016-02-24 16:06:18	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-02-24 16:06:18	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-02-24 16:06:18	@root	The nick is (probably) not registered
+2016-02-24 16:14:12	@mort	add 0aegnor@jabber.cz
+2016-02-24 16:14:12	@root	Not enough parameters given (need 2).
+2016-02-24 16:14:16	@mort	add 0 aegnor@jabber.cz
+2016-02-24 16:14:16	@root	Invalid account
+2016-03-04 23:17:13	-->	mort (mort@localhost) has joined &bitlbee
+2016-03-04 23:17:13	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-03-04 23:17:13	--	Téma nastavil root (root@localhost) v Pá, 04 bře 2016 23:17:13
+2016-03-04 23:17:13	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-03-04 23:17:13	@root	Welcome to the BitlBee gateway!
+2016-03-04 23:17:13	@root	 
+2016-03-04 23:17:13	@root	Running BitlBee 3.4.1+20160218+master+135-g242f280-git
+2016-03-04 23:17:13	@root	 
+2016-03-04 23:17:13	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-03-04 23:17:13	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-03-04 23:17:13	@root	The nick is (probably) not registered

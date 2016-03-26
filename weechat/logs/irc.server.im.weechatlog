@@ -1,0 +1,537 @@
+2016-02-02 01:16:26	--	irc: connecting to server localhost/6667...
+2016-02-02 01:16:26	--	irc: připojen k localhost/6667 (::1)
+2016-02-02 01:16:26	--	localhost: BitlBee-IRCd initialized, please go on
+2016-02-02 01:16:26	--	Welcome to the BitlBee-LIBPURPLE gateway, mort
+2016-02-02 01:16:26	--	Host localhost is running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git Linux/x86_64.
+2016-02-02 01:16:26	--	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-02 01:16:26	--	localhost 3.4.1+20160126+master+131-g7616eec-git abiswRo ntC
+2016-02-02 01:16:26	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-02 01:16:26	--	- localhost Message Of The Day -
+2016-02-02 01:16:26	--	- Welcome to the BitlBee server at localhost.
+2016-02-02 01:16:26	--	-
+2016-02-02 01:16:26	--	- This server is running BitlBee version 3.4.1+20160126+master+131-g7616eec-git.
+2016-02-02 01:16:26	--	- The newest version can be found on http://www.bitlbee.org/
+2016-02-02 01:16:26	--	-
+2016-02-02 01:16:26	--	- You are getting this message because the server administrator has not
+2016-02-02 01:16:26	--	- yet had the time (or need) to change it.
+2016-02-02 01:16:26	--	-
+2016-02-02 01:16:26	--	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-02 01:16:26	--	- Relay Chat server. Please see the site mentioned above for more
+2016-02-02 01:16:26	--	- information.
+2016-02-02 01:16:26	--	-
+2016-02-02 01:16:26	--	- The developers of the Bee hope you have a buzzing time.
+2016-02-02 01:16:26	--	- -- BitlBee development team.
+2016-02-02 01:16:26	--	-
+2016-02-02 01:16:26	--	- ... Buzzing, haha, get it?
+2016-02-02 01:16:26	--	End of MOTD
+2016-02-02 01:16:26	--	Uživatelský mód [+s] od mort
+2016-02-02 01:22:46	--	irc: connecting to server localhost/6667...
+2016-02-02 01:22:46	--	irc: připojen k localhost/6667 (::1)
+2016-02-02 01:22:46	--	localhost: BitlBee-IRCd initialized, please go on
+2016-02-02 01:22:46	--	Welcome to the BitlBee-LIBPURPLE gateway, mort
+2016-02-02 01:22:46	--	MSG(&bitlbee): identify Md954753
+2016-02-02 01:22:46	--	Host localhost is running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git Linux/x86_64.
+2016-02-02 01:22:46	--	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-02 01:22:46	--	localhost 3.4.1+20160126+master+131-g7616eec-git abiswRo ntC
+2016-02-02 01:22:46	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-02 01:22:46	--	- localhost Message Of The Day -
+2016-02-02 01:22:46	--	- Welcome to the BitlBee server at localhost.
+2016-02-02 01:22:46	--	-
+2016-02-02 01:22:46	--	- This server is running BitlBee version 3.4.1+20160126+master+131-g7616eec-git.
+2016-02-02 01:22:46	--	- The newest version can be found on http://www.bitlbee.org/
+2016-02-02 01:22:46	--	-
+2016-02-02 01:22:46	--	- You are getting this message because the server administrator has not
+2016-02-02 01:22:46	--	- yet had the time (or need) to change it.
+2016-02-02 01:22:46	--	-
+2016-02-02 01:22:46	--	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-02 01:22:46	--	- Relay Chat server. Please see the site mentioned above for more
+2016-02-02 01:22:46	--	- information.
+2016-02-02 01:22:46	--	-
+2016-02-02 01:22:46	--	- The developers of the Bee hope you have a buzzing time.
+2016-02-02 01:22:46	--	- -- BitlBee development team.
+2016-02-02 01:22:46	--	-
+2016-02-02 01:22:46	--	- ... Buzzing, haha, get it?
+2016-02-02 01:22:46	--	End of MOTD
+2016-02-02 01:22:46	--	Uživatelský mód [+s] od mort
+2016-02-02 01:22:46	--	Uživatelský mód [+R] od mort
+2016-02-02 01:25:09	--	irc: connecting to server localhost/6667...
+2016-02-02 01:25:09	--	irc: připojen k localhost/6667 (::1)
+2016-02-02 01:25:09	--	localhost: BitlBee-IRCd initialized, please go on
+2016-02-02 01:25:09	--	Welcome to the BitlBee-LIBPURPLE gateway, mort
+2016-02-02 01:25:09	--	MSG(&bitlbee): identify Md954753
+2016-02-02 01:25:09	--	Host localhost is running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git Linux/x86_64.
+2016-02-02 01:25:09	--	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-02 01:25:09	--	localhost 3.4.1+20160126+master+131-g7616eec-git abiswRo ntC
+2016-02-02 01:25:09	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-02 01:25:09	--	- localhost Message Of The Day -
+2016-02-02 01:25:09	--	- Welcome to the BitlBee server at localhost.
+2016-02-02 01:25:09	--	-
+2016-02-02 01:25:09	--	- This server is running BitlBee version 3.4.1+20160126+master+131-g7616eec-git.
+2016-02-02 01:25:09	--	- The newest version can be found on http://www.bitlbee.org/
+2016-02-02 01:25:09	--	-
+2016-02-02 01:25:09	--	- You are getting this message because the server administrator has not
+2016-02-02 01:25:09	--	- yet had the time (or need) to change it.
+2016-02-02 01:25:09	--	-
+2016-02-02 01:25:09	--	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-02 01:25:09	--	- Relay Chat server. Please see the site mentioned above for more
+2016-02-02 01:25:09	--	- information.
+2016-02-02 01:25:09	--	-
+2016-02-02 01:25:09	--	- The developers of the Bee hope you have a buzzing time.
+2016-02-02 01:25:09	--	- -- BitlBee development team.
+2016-02-02 01:25:09	--	-
+2016-02-02 01:25:09	--	- ... Buzzing, haha, get it?
+2016-02-02 01:25:09	--	End of MOTD
+2016-02-02 01:25:09	--	Uživatelský mód [+s] od mort
+2016-02-02 01:25:09	--	Uživatelský mód [+R] od mort
+2016-02-02 01:28:57	--	irc: connecting to server localhost/6667...
+2016-02-02 01:28:57	--	irc: připojen k localhost/6667 (::1)
+2016-02-02 01:28:57	--	localhost: BitlBee-IRCd initialized, please go on
+2016-02-02 01:28:57	--	Welcome to the BitlBee-LIBPURPLE gateway, mort
+2016-02-02 01:28:57	--	MSG(&bitlbee): identify "
+2016-02-02 01:28:57	--	Host localhost is running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git Linux/x86_64.
+2016-02-02 01:28:57	--	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-02 01:28:57	--	localhost 3.4.1+20160126+master+131-g7616eec-git abiswRo ntC
+2016-02-02 01:28:57	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-02 01:28:57	--	- localhost Message Of The Day -
+2016-02-02 01:28:57	--	- Welcome to the BitlBee server at localhost.
+2016-02-02 01:28:57	--	-
+2016-02-02 01:28:57	--	- This server is running BitlBee version 3.4.1+20160126+master+131-g7616eec-git.
+2016-02-02 01:28:57	--	- The newest version can be found on http://www.bitlbee.org/
+2016-02-02 01:28:57	--	-
+2016-02-02 01:28:57	--	- You are getting this message because the server administrator has not
+2016-02-02 01:28:57	--	- yet had the time (or need) to change it.
+2016-02-02 01:28:57	--	-
+2016-02-02 01:28:57	--	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-02 01:28:57	--	- Relay Chat server. Please see the site mentioned above for more
+2016-02-02 01:28:57	--	- information.
+2016-02-02 01:28:57	--	-
+2016-02-02 01:28:57	--	- The developers of the Bee hope you have a buzzing time.
+2016-02-02 01:28:57	--	- -- BitlBee development team.
+2016-02-02 01:28:57	--	-
+2016-02-02 01:28:57	--	- ... Buzzing, haha, get it?
+2016-02-02 01:28:57	--	End of MOTD
+2016-02-02 01:28:57	--	Uživatelský mód [+s] od mort
+2016-02-02 01:29:38	--	irc: connecting to server localhost/6667...
+2016-02-02 01:29:38	--	irc: připojen k localhost/6667 (::1)
+2016-02-02 01:29:38	--	localhost: BitlBee-IRCd initialized, please go on
+2016-02-02 01:29:38	--	Welcome to the BitlBee-LIBPURPLE gateway, mort
+2016-02-02 01:29:38	--	MSG(&bitlbee): identify Md954753"
+2016-02-02 01:29:38	--	Host localhost is running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git Linux/x86_64.
+2016-02-02 01:29:38	--	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-02 01:29:38	--	localhost 3.4.1+20160126+master+131-g7616eec-git abiswRo ntC
+2016-02-02 01:29:38	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-02 01:29:38	--	- localhost Message Of The Day -
+2016-02-02 01:29:38	--	- Welcome to the BitlBee server at localhost.
+2016-02-02 01:29:38	--	-
+2016-02-02 01:29:38	--	- This server is running BitlBee version 3.4.1+20160126+master+131-g7616eec-git.
+2016-02-02 01:29:38	--	- The newest version can be found on http://www.bitlbee.org/
+2016-02-02 01:29:38	--	-
+2016-02-02 01:29:38	--	- You are getting this message because the server administrator has not
+2016-02-02 01:29:38	--	- yet had the time (or need) to change it.
+2016-02-02 01:29:38	--	-
+2016-02-02 01:29:38	--	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-02 01:29:38	--	- Relay Chat server. Please see the site mentioned above for more
+2016-02-02 01:29:38	--	- information.
+2016-02-02 01:29:38	--	-
+2016-02-02 01:29:38	--	- The developers of the Bee hope you have a buzzing time.
+2016-02-02 01:29:38	--	- -- BitlBee development team.
+2016-02-02 01:29:38	--	-
+2016-02-02 01:29:38	--	- ... Buzzing, haha, get it?
+2016-02-02 01:29:38	--	End of MOTD
+2016-02-02 01:29:38	--	Uživatelský mód [+s] od mort
+2016-02-02 01:30:38	--	irc: connecting to server localhost/6667...
+2016-02-02 01:30:38	--	irc: připojen k localhost/6667 (::1)
+2016-02-02 01:30:38	--	localhost: BitlBee-IRCd initialized, please go on
+2016-02-02 01:30:38	--	Welcome to the BitlBee-LIBPURPLE gateway, mort
+2016-02-02 01:30:38	--	MSG(&bitlbee): identify Md954753"
+2016-02-02 01:30:38	--	Host localhost is running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git Linux/x86_64.
+2016-02-02 01:30:38	--	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-02 01:30:38	--	localhost 3.4.1+20160126+master+131-g7616eec-git abiswRo ntC
+2016-02-02 01:30:38	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-02 01:30:38	--	- localhost Message Of The Day -
+2016-02-02 01:30:38	--	- Welcome to the BitlBee server at localhost.
+2016-02-02 01:30:38	--	-
+2016-02-02 01:30:38	--	- This server is running BitlBee version 3.4.1+20160126+master+131-g7616eec-git.
+2016-02-02 01:30:38	--	- The newest version can be found on http://www.bitlbee.org/
+2016-02-02 01:30:38	--	-
+2016-02-02 01:30:38	--	- You are getting this message because the server administrator has not
+2016-02-02 01:30:38	--	- yet had the time (or need) to change it.
+2016-02-02 01:30:38	--	-
+2016-02-02 01:30:38	--	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-02 01:30:38	--	- Relay Chat server. Please see the site mentioned above for more
+2016-02-02 01:30:38	--	- information.
+2016-02-02 01:30:38	--	-
+2016-02-02 01:30:38	--	- The developers of the Bee hope you have a buzzing time.
+2016-02-02 01:30:38	--	- -- BitlBee development team.
+2016-02-02 01:30:38	--	-
+2016-02-02 01:30:38	--	- ... Buzzing, haha, get it?
+2016-02-02 01:30:38	--	End of MOTD
+2016-02-02 01:30:38	--	Uživatelský mód [+s] od mort
+2016-02-02 01:31:25	--	irc: connecting to server localhost/6667...
+2016-02-02 01:31:25	--	irc: připojen k localhost/6667 (::1)
+2016-02-02 01:31:25	--	localhost: BitlBee-IRCd initialized, please go on
+2016-02-02 01:31:25	--	Welcome to the BitlBee-LIBPURPLE gateway, mort
+2016-02-02 01:31:25	--	MSG(&bitlbee): identify Md954753
+2016-02-02 01:31:25	--	Host localhost is running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git Linux/x86_64.
+2016-02-02 01:31:25	--	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-02 01:31:25	--	localhost 3.4.1+20160126+master+131-g7616eec-git abiswRo ntC
+2016-02-02 01:31:25	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-02 01:31:25	--	- localhost Message Of The Day -
+2016-02-02 01:31:25	--	- Welcome to the BitlBee server at localhost.
+2016-02-02 01:31:25	--	-
+2016-02-02 01:31:25	--	- This server is running BitlBee version 3.4.1+20160126+master+131-g7616eec-git.
+2016-02-02 01:31:25	--	- The newest version can be found on http://www.bitlbee.org/
+2016-02-02 01:31:25	--	-
+2016-02-02 01:31:25	--	- You are getting this message because the server administrator has not
+2016-02-02 01:31:25	--	- yet had the time (or need) to change it.
+2016-02-02 01:31:25	--	-
+2016-02-02 01:31:25	--	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-02 01:31:25	--	- Relay Chat server. Please see the site mentioned above for more
+2016-02-02 01:31:25	--	- information.
+2016-02-02 01:31:25	--	-
+2016-02-02 01:31:25	--	- The developers of the Bee hope you have a buzzing time.
+2016-02-02 01:31:25	--	- -- BitlBee development team.
+2016-02-02 01:31:25	--	-
+2016-02-02 01:31:25	--	- ... Buzzing, haha, get it?
+2016-02-02 01:31:25	--	End of MOTD
+2016-02-02 01:31:25	--	Uživatelský mód [+s] od mort
+2016-02-02 01:31:25	--	Uživatelský mód [+R] od mort
+2016-02-02 01:48:10	--	You're now away: "GwtB"
+2016-02-02 01:51:33	--	Welcome back
+2016-02-02 16:29:58	--	irc: connecting to server localhost/6667...
+2016-02-02 16:29:58	--	irc: připojen k localhost/6667 (::1)
+2016-02-02 16:29:58	--	localhost: BitlBee-IRCd initialized, please go on
+2016-02-02 16:29:58	--	Welcome to the BitlBee-LIBPURPLE gateway, mort
+2016-02-02 16:29:58	--	MSG(&bitlbee): identify Md954753
+2016-02-02 16:29:58	--	Host localhost is running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git Linux/x86_64.
+2016-02-02 16:29:58	--	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-02 16:29:58	--	localhost 3.4.1+20160126+master+131-g7616eec-git abiswRo ntC
+2016-02-02 16:29:58	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-02 16:29:58	--	- localhost Message Of The Day -
+2016-02-02 16:29:58	--	- Welcome to the BitlBee server at localhost.
+2016-02-02 16:29:58	--	-
+2016-02-02 16:29:58	--	- This server is running BitlBee version 3.4.1+20160126+master+131-g7616eec-git.
+2016-02-02 16:29:58	--	- The newest version can be found on http://www.bitlbee.org/
+2016-02-02 16:29:58	--	-
+2016-02-02 16:29:58	--	- You are getting this message because the server administrator has not
+2016-02-02 16:29:58	--	- yet had the time (or need) to change it.
+2016-02-02 16:29:58	--	-
+2016-02-02 16:29:58	--	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-02 16:29:58	--	- Relay Chat server. Please see the site mentioned above for more
+2016-02-02 16:29:58	--	- information.
+2016-02-02 16:29:58	--	-
+2016-02-02 16:29:58	--	- The developers of the Bee hope you have a buzzing time.
+2016-02-02 16:29:58	--	- -- BitlBee development team.
+2016-02-02 16:29:58	--	-
+2016-02-02 16:29:58	--	- ... Buzzing, haha, get it?
+2016-02-02 16:29:58	--	End of MOTD
+2016-02-02 16:29:58	--	Uživatelský mód [+s] od mort
+2016-02-02 16:29:58	--	Uživatelský mód [+R] od mort
+2016-02-03 13:09:00	--	irc: connecting to server localhost/6667...
+2016-02-03 13:09:00	--	irc: připojen k localhost/6667 (::1)
+2016-02-03 13:09:02	--	localhost: BitlBee-IRCd initialized, please go on
+2016-02-03 13:09:02	--	Welcome to the BitlBee-LIBPURPLE gateway, mort
+2016-02-03 13:09:02	--	MSG(&bitlbee): identify Md954753
+2016-02-03 13:09:02	--	Host localhost is running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git Linux/x86_64.
+2016-02-03 13:09:02	--	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-03 13:09:02	--	localhost 3.4.1+20160126+master+131-g7616eec-git abiswRo ntC
+2016-02-03 13:09:02	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-03 13:09:02	--	- localhost Message Of The Day -
+2016-02-03 13:09:02	--	- Welcome to the BitlBee server at localhost.
+2016-02-03 13:09:02	--	-
+2016-02-03 13:09:02	--	- This server is running BitlBee version 3.4.1+20160126+master+131-g7616eec-git.
+2016-02-03 13:09:02	--	- The newest version can be found on http://www.bitlbee.org/
+2016-02-03 13:09:02	--	-
+2016-02-03 13:09:02	--	- You are getting this message because the server administrator has not
+2016-02-03 13:09:02	--	- yet had the time (or need) to change it.
+2016-02-03 13:09:02	--	-
+2016-02-03 13:09:02	--	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-03 13:09:02	--	- Relay Chat server. Please see the site mentioned above for more
+2016-02-03 13:09:02	--	- information.
+2016-02-03 13:09:02	--	-
+2016-02-03 13:09:02	--	- The developers of the Bee hope you have a buzzing time.
+2016-02-03 13:09:02	--	- -- BitlBee development team.
+2016-02-03 13:09:02	--	-
+2016-02-03 13:09:02	--	- ... Buzzing, haha, get it?
+2016-02-03 13:09:02	--	End of MOTD
+2016-02-03 13:09:02	--	Uživatelský mód [+s] od mort
+2016-02-03 13:09:02	--	Uživatelský mód [+R] od mort
+2016-02-08 13:04:06	--	irc: connecting to server localhost/6667...
+2016-02-08 13:04:06	--	irc: připojen k localhost/6667 (::1)
+2016-02-08 13:04:07	--	localhost: BitlBee-IRCd initialized, please go on
+2016-02-08 13:04:07	--	Welcome to the BitlBee-LIBPURPLE gateway, mort
+2016-02-08 13:04:07	--	MSG(&bitlbee): identify Md954753
+2016-02-08 13:04:07	--	Host localhost is running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git Linux/x86_64.
+2016-02-08 13:04:07	--	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-08 13:04:07	--	localhost 3.4.1+20160126+master+131-g7616eec-git abiswRo ntC
+2016-02-08 13:04:07	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-08 13:04:07	--	- localhost Message Of The Day -
+2016-02-08 13:04:07	--	- Welcome to the BitlBee server at localhost.
+2016-02-08 13:04:07	--	-
+2016-02-08 13:04:07	--	- This server is running BitlBee version 3.4.1+20160126+master+131-g7616eec-git.
+2016-02-08 13:04:07	--	- The newest version can be found on http://www.bitlbee.org/
+2016-02-08 13:04:07	--	-
+2016-02-08 13:04:07	--	- You are getting this message because the server administrator has not
+2016-02-08 13:04:07	--	- yet had the time (or need) to change it.
+2016-02-08 13:04:07	--	-
+2016-02-08 13:04:07	--	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-08 13:04:07	--	- Relay Chat server. Please see the site mentioned above for more
+2016-02-08 13:04:07	--	- information.
+2016-02-08 13:04:07	--	-
+2016-02-08 13:04:07	--	- The developers of the Bee hope you have a buzzing time.
+2016-02-08 13:04:07	--	- -- BitlBee development team.
+2016-02-08 13:04:07	--	-
+2016-02-08 13:04:07	--	- ... Buzzing, haha, get it?
+2016-02-08 13:04:07	--	End of MOTD
+2016-02-08 13:04:07	--	Uživatelský mód [+s] od mort
+2016-02-08 13:04:07	--	Uživatelský mód [+R] od mort
+2016-02-09 11:44:05	--	irc: connecting to server localhost/6667...
+2016-02-09 11:44:05	--	irc: připojen k localhost/6667 (::1)
+2016-02-09 11:44:05	--	localhost: BitlBee-IRCd initialized, please go on
+2016-02-09 11:44:05	--	Welcome to the BitlBee-LIBPURPLE gateway, mort
+2016-02-09 11:44:05	--	MSG(&bitlbee): identify Md954753
+2016-02-09 11:44:05	--	Host localhost is running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git Linux/x86_64.
+2016-02-09 11:44:05	--	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-09 11:44:05	--	localhost 3.4.1+20160126+master+131-g7616eec-git abiswRo ntC
+2016-02-09 11:44:05	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-09 11:44:05	--	- localhost Message Of The Day -
+2016-02-09 11:44:05	--	- Welcome to the BitlBee server at localhost.
+2016-02-09 11:44:05	--	-
+2016-02-09 11:44:05	--	- This server is running BitlBee version 3.4.1+20160126+master+131-g7616eec-git.
+2016-02-09 11:44:05	--	- The newest version can be found on http://www.bitlbee.org/
+2016-02-09 11:44:05	--	-
+2016-02-09 11:44:05	--	- You are getting this message because the server administrator has not
+2016-02-09 11:44:05	--	- yet had the time (or need) to change it.
+2016-02-09 11:44:05	--	-
+2016-02-09 11:44:05	--	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-09 11:44:05	--	- Relay Chat server. Please see the site mentioned above for more
+2016-02-09 11:44:05	--	- information.
+2016-02-09 11:44:05	--	-
+2016-02-09 11:44:05	--	- The developers of the Bee hope you have a buzzing time.
+2016-02-09 11:44:05	--	- -- BitlBee development team.
+2016-02-09 11:44:05	--	-
+2016-02-09 11:44:05	--	- ... Buzzing, haha, get it?
+2016-02-09 11:44:05	--	End of MOTD
+2016-02-09 11:44:05	--	Uživatelský mód [+s] od mort
+2016-02-09 11:44:05	--	Uživatelský mód [+R] od mort
+2016-02-09 17:53:20	--	irc: connecting to server localhost/6667...
+2016-02-09 17:53:20	--	irc: připojen k localhost/6667 (::1)
+2016-02-09 17:53:21	--	localhost: BitlBee-IRCd initialized, please go on
+2016-02-09 17:53:21	--	Welcome to the BitlBee-LIBPURPLE gateway, mort
+2016-02-09 17:53:21	--	MSG(&bitlbee): identify Md954753
+2016-02-09 17:53:21	--	Host localhost is running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git Linux/x86_64.
+2016-02-09 17:53:21	--	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-09 17:53:21	--	localhost 3.4.1+20160126+master+131-g7616eec-git abiswRo ntC
+2016-02-09 17:53:21	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-09 17:53:21	--	- localhost Message Of The Day -
+2016-02-09 17:53:21	--	- Welcome to the BitlBee server at localhost.
+2016-02-09 17:53:21	--	-
+2016-02-09 17:53:21	--	- This server is running BitlBee version 3.4.1+20160126+master+131-g7616eec-git.
+2016-02-09 17:53:21	--	- The newest version can be found on http://www.bitlbee.org/
+2016-02-09 17:53:21	--	-
+2016-02-09 17:53:21	--	- You are getting this message because the server administrator has not
+2016-02-09 17:53:21	--	- yet had the time (or need) to change it.
+2016-02-09 17:53:21	--	-
+2016-02-09 17:53:21	--	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-09 17:53:21	--	- Relay Chat server. Please see the site mentioned above for more
+2016-02-09 17:53:21	--	- information.
+2016-02-09 17:53:21	--	-
+2016-02-09 17:53:21	--	- The developers of the Bee hope you have a buzzing time.
+2016-02-09 17:53:21	--	- -- BitlBee development team.
+2016-02-09 17:53:21	--	-
+2016-02-09 17:53:21	--	- ... Buzzing, haha, get it?
+2016-02-09 17:53:21	--	End of MOTD
+2016-02-09 17:53:21	--	Uživatelský mód [+s] od mort
+2016-02-09 17:53:21	--	Uživatelský mód [+R] od mort
+2016-02-13 22:48:26	--	irc: connecting to server localhost/6667...
+2016-02-13 22:48:26	--	irc: připojen k localhost/6667 (::1)
+2016-02-13 22:48:27	--	localhost: BitlBee-IRCd initialized, please go on
+2016-02-13 22:48:27	--	Welcome to the BitlBee-LIBPURPLE gateway, mort
+2016-02-13 22:48:27	--	MSG(&bitlbee): identify Md954753
+2016-02-13 22:48:27	--	Host localhost is running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git Linux/x86_64.
+2016-02-13 22:48:27	--	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-13 22:48:27	--	localhost 3.4.1+20160126+master+131-g7616eec-git abiswRo ntC
+2016-02-13 22:48:27	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-13 22:48:27	--	- localhost Message Of The Day -
+2016-02-13 22:48:27	--	- Welcome to the BitlBee server at localhost.
+2016-02-13 22:48:27	--	-
+2016-02-13 22:48:27	--	- This server is running BitlBee version 3.4.1+20160126+master+131-g7616eec-git.
+2016-02-13 22:48:27	--	- The newest version can be found on http://www.bitlbee.org/
+2016-02-13 22:48:27	--	-
+2016-02-13 22:48:27	--	- You are getting this message because the server administrator has not
+2016-02-13 22:48:27	--	- yet had the time (or need) to change it.
+2016-02-13 22:48:27	--	-
+2016-02-13 22:48:27	--	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-13 22:48:27	--	- Relay Chat server. Please see the site mentioned above for more
+2016-02-13 22:48:27	--	- information.
+2016-02-13 22:48:27	--	-
+2016-02-13 22:48:27	--	- The developers of the Bee hope you have a buzzing time.
+2016-02-13 22:48:27	--	- -- BitlBee development team.
+2016-02-13 22:48:27	--	-
+2016-02-13 22:48:27	--	- ... Buzzing, haha, get it?
+2016-02-13 22:48:27	--	End of MOTD
+2016-02-13 22:48:27	--	Uživatelský mód [+s] od mort
+2016-02-13 22:48:27	--	Uživatelský mód [+R] od mort
+2016-02-16 21:18:42	--	irc: connecting to server localhost/6667...
+2016-02-16 21:18:42	--	irc: připojen k localhost/6667 (::1)
+2016-02-16 21:18:43	--	localhost: BitlBee-IRCd initialized, please go on
+2016-02-16 21:18:43	--	Welcome to the BitlBee-LIBPURPLE gateway, mort
+2016-02-16 21:18:43	--	MSG(&bitlbee): identify Md954753
+2016-02-16 21:18:43	--	Host localhost is running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git Linux/x86_64.
+2016-02-16 21:18:43	--	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-16 21:18:43	--	localhost 3.4.1+20160126+master+131-g7616eec-git abiswRo ntC
+2016-02-16 21:18:43	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-16 21:18:43	--	- localhost Message Of The Day -
+2016-02-16 21:18:43	--	- Welcome to the BitlBee server at localhost.
+2016-02-16 21:18:43	--	-
+2016-02-16 21:18:43	--	- This server is running BitlBee version 3.4.1+20160126+master+131-g7616eec-git.
+2016-02-16 21:18:43	--	- The newest version can be found on http://www.bitlbee.org/
+2016-02-16 21:18:43	--	-
+2016-02-16 21:18:43	--	- You are getting this message because the server administrator has not
+2016-02-16 21:18:43	--	- yet had the time (or need) to change it.
+2016-02-16 21:18:43	--	-
+2016-02-16 21:18:43	--	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-16 21:18:43	--	- Relay Chat server. Please see the site mentioned above for more
+2016-02-16 21:18:43	--	- information.
+2016-02-16 21:18:43	--	-
+2016-02-16 21:18:43	--	- The developers of the Bee hope you have a buzzing time.
+2016-02-16 21:18:43	--	- -- BitlBee development team.
+2016-02-16 21:18:43	--	-
+2016-02-16 21:18:43	--	- ... Buzzing, haha, get it?
+2016-02-16 21:18:43	--	End of MOTD
+2016-02-16 21:18:43	--	Uživatelský mód [+s] od mort
+2016-02-16 21:18:43	--	Uživatelský mód [+R] od mort
+2016-02-24 12:54:04	--	irc: connecting to server localhost/6667...
+2016-02-24 12:54:04	--	irc: připojen k localhost/6667 (::1)
+2016-02-24 12:54:05	--	localhost: BitlBee-IRCd initialized, please go on
+2016-02-24 12:54:05	--	Welcome to the BitlBee-LIBPURPLE gateway, mort
+2016-02-24 12:54:05	--	MSG(&bitlbee): identify Md954753
+2016-02-24 12:54:05	--	Host localhost is running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git Linux/x86_64.
+2016-02-24 12:54:05	--	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-24 12:54:05	--	localhost 3.4.1+20160126+master+131-g7616eec-git abiswRo ntC
+2016-02-24 12:54:05	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-24 12:54:05	--	- localhost Message Of The Day -
+2016-02-24 12:54:05	--	- Welcome to the BitlBee server at localhost.
+2016-02-24 12:54:05	--	-
+2016-02-24 12:54:05	--	- This server is running BitlBee version 3.4.1+20160126+master+131-g7616eec-git.
+2016-02-24 12:54:05	--	- The newest version can be found on http://www.bitlbee.org/
+2016-02-24 12:54:05	--	-
+2016-02-24 12:54:05	--	- You are getting this message because the server administrator has not
+2016-02-24 12:54:05	--	- yet had the time (or need) to change it.
+2016-02-24 12:54:05	--	-
+2016-02-24 12:54:05	--	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-24 12:54:05	--	- Relay Chat server. Please see the site mentioned above for more
+2016-02-24 12:54:05	--	- information.
+2016-02-24 12:54:05	--	-
+2016-02-24 12:54:05	--	- The developers of the Bee hope you have a buzzing time.
+2016-02-24 12:54:05	--	- -- BitlBee development team.
+2016-02-24 12:54:05	--	-
+2016-02-24 12:54:05	--	- ... Buzzing, haha, get it?
+2016-02-24 12:54:05	--	End of MOTD
+2016-02-24 12:54:05	--	Uživatelský mód [+s] od mort
+2016-02-24 12:54:05	--	Uživatelský mód [+R] od mort
+2016-02-24 15:56:24	--	irc: connecting to server localhost/6667...
+2016-02-24 15:56:24	--	irc: připojen k localhost/6667 (::1)
+2016-02-24 15:56:24	--	localhost: BitlBee-IRCd initialized, please go on
+2016-02-24 15:56:24	--	Welcome to the BitlBee-LIBPURPLE gateway, mort
+2016-02-24 15:56:24	--	MSG(&bitlbee): identify Md954753
+2016-02-24 15:56:24	--	Host localhost is running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git Linux/x86_64.
+2016-02-24 15:56:24	--	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2016-02-24 15:56:24	--	localhost 3.4.1+20160126+master+131-g7616eec-git abiswRo ntC
+2016-02-24 15:56:24	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-24 15:56:24	--	- localhost Message Of The Day -
+2016-02-24 15:56:24	--	- Welcome to the BitlBee server at localhost.
+2016-02-24 15:56:24	--	-
+2016-02-24 15:56:24	--	- This server is running BitlBee version 3.4.1+20160126+master+131-g7616eec-git.
+2016-02-24 15:56:24	--	- The newest version can be found on http://www.bitlbee.org/
+2016-02-24 15:56:24	--	-
+2016-02-24 15:56:24	--	- You are getting this message because the server administrator has not
+2016-02-24 15:56:24	--	- yet had the time (or need) to change it.
+2016-02-24 15:56:24	--	-
+2016-02-24 15:56:24	--	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-24 15:56:24	--	- Relay Chat server. Please see the site mentioned above for more
+2016-02-24 15:56:24	--	- information.
+2016-02-24 15:56:24	--	-
+2016-02-24 15:56:24	--	- The developers of the Bee hope you have a buzzing time.
+2016-02-24 15:56:24	--	- -- BitlBee development team.
+2016-02-24 15:56:24	--	-
+2016-02-24 15:56:24	--	- ... Buzzing, haha, get it?
+2016-02-24 15:56:24	--	End of MOTD
+2016-02-24 15:56:24	--	Uživatelský mód [+s] od mort
+2016-02-24 15:56:24	--	Uživatelský mód [+R] od mort
+2016-02-24 16:04:35	--	irc: connecting to server localhost/6667...
+2016-02-24 16:04:35	--	irc: připojen k localhost/6667 (::1)
+2016-02-24 16:04:35	--	localhost: BitlBee-IRCd initialized, please go on
+2016-02-24 16:04:35	--	Welcome to the BitlBee gateway, mort
+2016-02-24 16:04:35	--	MSG(&bitlbee): identify Md954753
+2016-02-24 16:04:35	--	Host localhost is running BitlBee 3.4.1+20160218+master+135-g242f280-git Linux/x86_64.
+2016-02-24 16:04:35	--	BitlBee <http://www.bitlbee.org/>
+2016-02-24 16:04:35	--	localhost 3.4.1+20160218+master+135-g242f280-git abiswRo ntC
+2016-02-24 16:04:35	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-24 16:04:35	--	- localhost Message Of The Day -
+2016-02-24 16:04:35	--	- Welcome to the BitlBee server at localhost.
+2016-02-24 16:04:35	--	-
+2016-02-24 16:04:35	--	- This server is running BitlBee version 3.4.1+20160218+master+135-g242f280-git.
+2016-02-24 16:04:35	--	- The newest version can be found on http://www.bitlbee.org/
+2016-02-24 16:04:35	--	-
+2016-02-24 16:04:35	--	- You are getting this message because the server administrator has not
+2016-02-24 16:04:35	--	- yet had the time (or need) to change it.
+2016-02-24 16:04:35	--	-
+2016-02-24 16:04:35	--	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-24 16:04:35	--	- Relay Chat server. Please see the site mentioned above for more
+2016-02-24 16:04:35	--	- information.
+2016-02-24 16:04:35	--	-
+2016-02-24 16:04:35	--	- The developers of the Bee hope you have a buzzing time.
+2016-02-24 16:04:35	--	- -- BitlBee development team.
+2016-02-24 16:04:35	--	-
+2016-02-24 16:04:35	--	- ... Buzzing, haha, get it?
+2016-02-24 16:04:35	--	End of MOTD
+2016-02-24 16:04:35	--	Uživatelský mód [+s] od mort
+2016-02-24 16:06:18	--	irc: connecting to server localhost/6667...
+2016-02-24 16:06:18	--	irc: připojen k localhost/6667 (::1)
+2016-02-24 16:06:18	--	localhost: BitlBee-IRCd initialized, please go on
+2016-02-24 16:06:18	--	Welcome to the BitlBee gateway, mort
+2016-02-24 16:06:18	--	MSG(&bitlbee): identify Md954753
+2016-02-24 16:06:18	--	Host localhost is running BitlBee 3.4.1+20160218+master+135-g242f280-git Linux/x86_64.
+2016-02-24 16:06:18	--	BitlBee <http://www.bitlbee.org/>
+2016-02-24 16:06:18	--	localhost 3.4.1+20160218+master+135-g242f280-git abiswRo ntC
+2016-02-24 16:06:18	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-02-24 16:06:18	--	- localhost Message Of The Day -
+2016-02-24 16:06:18	--	- Welcome to the BitlBee server at localhost.
+2016-02-24 16:06:18	--	-
+2016-02-24 16:06:18	--	- This server is running BitlBee version 3.4.1+20160218+master+135-g242f280-git.
+2016-02-24 16:06:18	--	- The newest version can be found on http://www.bitlbee.org/
+2016-02-24 16:06:18	--	-
+2016-02-24 16:06:18	--	- You are getting this message because the server administrator has not
+2016-02-24 16:06:18	--	- yet had the time (or need) to change it.
+2016-02-24 16:06:18	--	-
+2016-02-24 16:06:18	--	- For those who don't know it yet, this is not quite a regular Internet
+2016-02-24 16:06:18	--	- Relay Chat server. Please see the site mentioned above for more
+2016-02-24 16:06:18	--	- information.
+2016-02-24 16:06:18	--	-
+2016-02-24 16:06:18	--	- The developers of the Bee hope you have a buzzing time.
+2016-02-24 16:06:18	--	- -- BitlBee development team.
+2016-02-24 16:06:18	--	-
+2016-02-24 16:06:18	--	- ... Buzzing, haha, get it?
+2016-02-24 16:06:18	--	End of MOTD
+2016-02-24 16:06:18	--	Uživatelský mód [+s] od mort
+2016-02-24 16:13:39	=!=	irc: tenhle buffer není kanál!
+2016-02-24 16:13:57	=!=	irc: tenhle buffer není kanál!
+2016-03-04 23:17:13	--	irc: connecting to server localhost/6667...
+2016-03-04 23:17:13	--	irc: připojen k localhost/6667 (::1)
+2016-03-04 23:17:13	--	localhost: BitlBee-IRCd initialized, please go on
+2016-03-04 23:17:13	--	Welcome to the BitlBee gateway, mort
+2016-03-04 23:17:13	--	MSG(&bitlbee): identify Md954753
+2016-03-04 23:17:13	--	Host localhost is running BitlBee 3.4.1+20160218+master+135-g242f280-git Linux/x86_64.
+2016-03-04 23:17:13	--	BitlBee <http://www.bitlbee.org/>
+2016-03-04 23:17:13	--	localhost 3.4.1+20160218+master+135-g242f280-git abiswRo ntC
+2016-03-04 23:17:13	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2016-03-04 23:17:13	--	We don't need MOTDs.
+2016-03-04 23:17:13	--	Uživatelský mód [+s] od mort
+2016-03-08 20:16:42	--	irc: connecting to server localhost/6667...
+2016-03-08 20:16:42	=!=	irc: spojení odmítnuto
+2016-03-08 20:16:42	--	irc: znovupřipojení k serveru v 10 sekund
+2016-03-08 20:16:52	--	irc: připojuji se znovu k serveru...
+2016-03-08 20:16:52	--	irc: connecting to server localhost/6667...
+2016-03-08 20:16:52	=!=	irc: spojení odmítnuto
+2016-03-08 20:16:52	--	irc: znovupřipojení k serveru v 20 sekund

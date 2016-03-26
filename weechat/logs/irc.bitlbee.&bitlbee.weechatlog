@@ -1,0 +1,30 @@
+2016-02-02 00:59:48	-->	mort (mort@localhost) has joined &bitlbee
+2016-02-02 00:59:48	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-02-02 00:59:48	--	Téma nastavil root (root@localhost) v Út, 02 úno 2016 00:59:48
+2016-02-02 00:59:48	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-02-02 00:59:48	@root	Welcome to the BitlBee gateway!
+2016-02-02 00:59:48	@root	 
+2016-02-02 00:59:48	@root	Running BitlBee-LIBPURPLE 3.4.1+20160126+master+131-g7616eec-git
+2016-02-02 00:59:48	@root	 
+2016-02-02 00:59:48	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-02-02 00:59:48	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-02-02 00:59:59	@mort	ac list
+2016-02-02 00:59:59	@root	End of account list
+2016-02-02 01:00:06	@mort	register Md954753
+2016-02-02 01:00:06	@root	Nick is already registered
+2016-02-02 01:05:46	@mort	identify Md954753
+2016-02-02 01:05:46	@root	Password accepted, settings and accounts loaded
+2016-02-02 01:05:46	@root	Trying to get all accounts connected...
+2016-02-02 01:05:46	@root	jabber - Logging in: Connecting
+2016-02-02 01:05:46	@root	jabber - Logging in: Initializing Stream
+2016-02-02 01:05:46	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-02 01:05:46	@root	jabber - Logging in: Initializing Stream
+2016-02-02 01:05:46	@root	jabber - Logging in: Initializing SSL/TLS
+2016-02-02 01:05:46	@root	jabber - Logging in: Authenticating
+2016-02-02 01:05:47	@root	jabber - Logging in: Re-initializing Stream
+2016-02-02 01:05:47	@root	jabber - Logging in: Logged in
+2016-02-02 01:05:47	-->	stepanvenclik (stepan.venclik@gmail.com) has joined &bitlbee
+2016-02-02 01:05:47	-->	_2hy437gq6ahyh1j6q0184s (2hy437gq6ahyh1j6q0184sevgz@public.talk.google.com) has joined &bitlbee
+2016-02-02 01:05:47	-->	aegnor (aegnor@jabber.cz) has joined &bitlbee
+2016-02-02 01:05:47	--	Mód &bitlbee [+v aegnor] od localhost
+2016-02-02 01:10:26	--	irc: odpojen od serveru

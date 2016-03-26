@@ -1,0 +1,36 @@
+2016-02-13 22:49:41	khardix	muzu? 	  				 	 	 	    		  	   		  		
+2016-02-13 22:49:47	mort	vypada to, ze jo
+2016-02-13 22:49:56	khardix	https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454
+2016-02-13 22:50:15	khardix	a clanek, co me k tomu privedl: http://thedailywtf.com/articles/shadow-over-xml
+2016-02-24 14:15:23	khardix	knock knock
+2016-02-24 15:10:46	mort	Who's there?
+2016-02-24 15:11:36	mort	Vyvěšuju letáčky, zapomněl sem dát away :)
+2016-02-24 15:17:26	khardix	byl jsi away :)
+2016-02-24 15:18:21	khardix	jen mě Bára pověřila připomenutím, že dneska hrajeme -- viz mail
+2016-02-24 15:21:46	mort	byl sem away? at věc je chytřejší než sem myslel :)
+2016-02-24 15:22:13	mort	jj, mail sem viděl. Dík za připomenují.Jak sem minulý týden nehrál, tak mě vlbec nedošlo, že bych tenhle měl.
+2016-02-24 15:25:00	<--	khardix (khardix@isgeek.info) skončil (Leaving...)
+2016-02-24 15:25:56	-->	khardix (khardix@isgeek.info) se zpet na serveru
+2016-02-24 15:29:54	khardix	btw rád bych otestoval šifrovaní v bitlbee, máš čas? 	  				 	 	 	    		  	   		  		
+2016-02-24 15:32:32	mort	no... můžem to zkusit
+2016-02-24 15:33:49	khardix	nainstaluj si pkg bitlbee-otr a zrestartuj ho, znovu se připoj (mělo by to vypsat něco o generování klíčů) a napiš mi
+2016-02-24 15:34:16	khardix	indikátor: zprávy by měly začít být červené nebo zelené
+2016-02-24 15:35:54	khardix	detaily: https://wiki.bitlbee.org/bitlbee-otr
+2016-02-24 15:40:54	mort	hmm... tak moment, musím se podívat kde mám zdrojáky k bitlbee
+2016-02-24 15:57:47	mort	ping!
+2016-02-24 15:59:52	khardix	pong
+2016-02-24 16:00:21	khardix	hm, zatim nebarví...
+2016-02-24 16:00:39	khardix	ty sis bitlbee kompiloval?
+2016-02-24 16:01:07	mort	jj
+2016-02-24 16:01:33	khardix	proč? Fedora má zabaleno...
+2016-02-24 16:01:42	mort	proč ne?
+2016-02-24 16:01:57	mort	sem to chtěl zkusit, podívat se do zdrojáku, pohrát si s tím
+2016-02-24 16:02:07	khardix	OK
+2016-02-24 16:02:21	mort	víš jak, sem zvědavý :)
+2016-02-24 16:02:46	khardix	tak zkusím ještě ruční přístup k tomu OTR...
+2016-02-24 16:03:01	khardix	?OTRv23?
+2016-02-24 16:03:01	khardix	<b>khardix@isgeek.info</b> has requested an <a href="https://otr.cypherpunks.ca/">Off-the-Record private conversation</a>.  However, you do not have a plugin to support that.
+2016-02-24 16:03:01	khardix	See <a href="https://otr.cypherpunks.ca/">https://otr.cypherpunks.ca/</a> for more information.
+2016-02-24 16:03:38	mort	hmm, tak moment ještě...
+2016-02-24 16:06:30	mort	ping?
+2016-02-24 16:06:30	--	khardix: No such nick/channel
