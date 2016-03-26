@@ -107,5 +107,21 @@
  battery_font_color = #ecedee 100
  battery_padding = 1 0
  battery_background_id = 0
-#
+
+## CLOCK
+##---------------------------------------------
+time1_format = %H:%M
+time1_font = inconsolata 8
+#time2_format = %A %d %B
+#time2_font = sans 6
+clock_font_color = #ecedee 100
+clock_padding = 1 0
+clock_background_id = 0
+#clock_lclick_command = xclock
+clock_rclick_command = orage
+##clock_tooltip = %A %d %B
+##time1_timezone = :US/Hawaii
+##time2_timezone = :Europe/Berlin
+##clock_tooltip_timezone = :/usr/share/zoneinfo/Europe/Paris
+
 # # End of config

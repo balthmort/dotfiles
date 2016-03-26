@@ -11,6 +11,7 @@
     ~/.vim: vim/
     ~/.vimrc: vim/vimrc
     ~/.gvimrc: vim/gvimrc
+    
     # ZSH
     ~/.zshenv: zsh/01-zshenv
     ~/.zprofile: zsh/02-zprofile
@@ -24,6 +25,7 @@
     ~/.config/dunst/dunstrc:
       create: true
       path: dunstrc
+    
     # MPD
     ~/.config/systemd/user/mpd.socket:
       path: mpd/mpd.socket
@@ -35,15 +37,18 @@
     ~/.ncmpcpp/config:
       create: true
       path: ncmpcpp/config
+    
     # MPV
     ~/.config/mpv/config:
       create: true
       force: true
       path: mpv/config
+    
     # taskwarrior
     ~/.taskrc:
       path: taskwarrior/taskrc
       force: true
+    
     # tmux
     ~/.tmux.conf:
       path: tmux/tmux.conf
@@ -51,11 +56,13 @@
     ~/.tmux/plugins/tpm: 
       path: tmux/tpm
       create: true
+    
     # udiskie
     ~/.config/udiskie: udiskie/
     ~/.config/systemd/user/udiskie.service:
       path: udiskie/udiskie.service
       create: true
+    
     # connman
     ~/.config/systemd/user/connman-notify.service: connman/connman-notify.service
 
@@ -72,6 +79,11 @@
 
     #vifm
     ~/.config/vifm: vifm
+
+    #redshift
+    ~/.config/redshift.conf:
+      path: redshift/redshift.conf
+      create: true
 
     #scripts
     ~/.config/scripts: scripts
