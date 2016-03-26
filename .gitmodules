@@ -1,13 +1,13 @@
 [submodule "dotbot"]
-	path = dotbot
-	url = https://github.com/anishathalye/dotbot.git
+  path = dotbot
+  url = https://github.com/anishathalye/dotbot.git
   ignore = dirty
 [submodule "vim"]
-	path = vim
-	url = https://github.com/balthmort/vim-config.git
+  path = vim
+  url = https://github.com/balthmort/vim-config.git
 [submodule "zsh"]
-	path = zsh
-	url = https://github.com/balthmort/zsh-config.git
+  path = zsh
+  url = https://github.com/balthmort/zsh-config.git
 [submodule "tpm"]
-	path = tmux/tpm
-	url = https://github.com/tmux-plugins/tpm.git
+  path = tmux/tpm
+  url = https://github.com/tmux-plugins/tpm.git

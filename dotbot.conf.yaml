@@ -5,6 +5,7 @@
     - [mkdir -p ~/.local/share/task, Creating taskwarrior data dir]
     - [git submodule update --init --recursive, Installing configuration submodules]
     - [git submodule foreach --recursive git checkout master, Switch configuration submodules to master branch]
+    - [python3 -m mail.make-local, Create localized mail configurations]
 
 - link:
     # VIM
@@ -20,11 +21,21 @@
       path: zsh/03-zshrc
     ~/.zlogin: zsh/04-zlogin
     ~/.zlogout: zsh/05-zlogout
+    
+    # Weechat
+    ~/.weechat:
+      force: true
+      path: weechat
 
     # dunst
     ~/.config/dunst/dunstrc:
       create: true
       path: dunstrc
+    
+    # git
+    ~/.config/git/config:
+      create: true
+      path: gitconfig
     
     # MPD
     ~/.config/systemd/user/mpd.socket:
@@ -43,6 +54,9 @@
       create: true
       force: true
       path: mpv/config
+    
+    # PostgreSQL CLI
+    ~/.psqlrc: psqlrc
     
     # taskwarrior
     ~/.taskrc:
@@ -87,3 +101,12 @@
 
     #scripts
     ~/.config/scripts: scripts
+    
+    # XCompose
+    ~/.XCompose: XCompose
+    
+    # latexmk
+    ~/.latexmkrc: latexmkrc
+    
+    # pandoc
+    ~/.pandoc/templates: pandoc/templates

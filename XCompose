@@ -1,0 +1,122 @@
+# Extra compose sequences for X
+# 
+# Sources and inpirations:
+# https://github.com/eevee/rc/blob/master/.XCompose
+
+# Use system settings
+include "%L"
+
+# Arrows
+<Multi_key> <less> <minus>                  : "←" U2190
+<Multi_key> <minus> <less>                  : "←" U2190
+<Multi_key> <minus> <greater>               : "→" U2192
+<Multi_key> <less> <greater>                : "↔" U2194
+<Multi_key> <circumflex> <bar>              : "↑" U2191
+<Multi_key> <bar> <circumflex>              : "↑" U2191
+<Multi_key> <v> <bar>                       : "↓" U2193
+<Multi_key> <bar> <v>                       : "↓" U2193
+<Multi_key> <bar> <less> <minus>            : "↚" U219A
+<Multi_key> <bar> <minus> <greater>         : "↛" U219B
+<Multi_key> <bar> <less> <greater>          : "↮" U21AE
+
+# Misc
+<Multi_key> <v> <v> : "✓" U2713
+<Multi_key> <X> <X> : "✗" U2717 # ballot X — <x> <x> taken by Xorg for multiply
+
+# Math
+<Multi_key> <asciitilde> <asciitilde>       : "≈" U2248
+<Multi_key> <exclam> <asciitilde> <asciitilde> : "≉" U2249
+<Multi_key> <slash> <equal>                 : "≠" U2248
+<Multi_key> <equal> <slash>                 : "≠" U2248
+<Multi_key> <exclam> <equal>                : "≠" U2260
+<Multi_key> <greater> <equal>               : "≥" U2265
+<Multi_key> <less> <equal>                  : "≤" U2264
+<Multi_key> <exclam> <less>                 : "≮" U226E
+<Multi_key> <exclam> <greater>              : "≯" U226F
+<Multi_key> <equal> <equal>                 : "≡" U2261
+<Multi_key> <asciitilde> <equal>            : "≅" U2245
+<Multi_key> <parenleft> <minus>             : "∈" U2208
+<Multi_key> <parenleft> <slash> <minus>     : "∉" U2209
+<Multi_key> <exclam> <parenleft> <minus>    : "∉" U2209
+<Multi_key> <parenleft> <parenleft>         : "⊂" U2282
+<Multi_key> <parenleft> <slash> <parenleft> : "⊄" U2284
+<Multi_key> <exclam> <parenleft> <parenleft> : "⊄" U2284
+<Multi_key> <parenleft> <equal>             : "⊆" U2286
+<Multi_key> <parenleft> <slash> <equal>     : "⊈" U2288
+<Multi_key> <exclam> <parenleft> <equal>    : "⊈" U2288
+<Multi_key> <minus> <slash>                 : "√" U221a
+<Multi_key> <minus> <3> <slash>             : "∛" U221b
+<Multi_key> <minus> <4> <slash>             : "∜" U221c
+<Multi_key> <minus> <4> <slash>             : "∜" U221c
+<Multi_key> <1> <slash> <0>                 : "∞" U221e
+<Multi_key> <2> <slash> <0>                 : "ℵ" U2135
+<Multi_key> <percent> <O>                   : "‱" U2031
+<Multi_key> <period> <colon>                : "∴" U2234
+<Multi_key> <slash> <underscore>            : "∠" U2220
+<Multi_key> <exclam> <3>                    : "ℇ" U2107
+<Multi_key> <f> <comma>                     : "ƒ" U0192
+<Multi_key> <exclam> <exclam>               : "¬" U00AC  # NOT sign
+# Math arrows
+<Multi_key> <less> <underscore>             : "⇐" U21D0  # Back Implies
+<Multi_key> <underscore> <greater>          : "⇒" U21D2  # Implies
+<Multi_key> <underscore> <less> <greater>   : "⇔" U21D4  # Equivalent
+<Multi_key> <bar> <underscore> <greater>    : "⇏" U21CF  # Not implies
+<Multi_key> <bar> <underscore> <less> <greater> : "⇎" U21CE # Not equivalent
+# Greek letters and things based on them
+<Multi_key> <slash> <greater>               : "∆" U2206  # not capital delta
+<Multi_key> <plus> <plus>                   : "∑" U2211  # not capital sigma
+<Multi_key> <asterisk> <asterisk>           : "∏" U220f  # not capital pi
+<Multi_key> <o> <bar>                       : "ϕ" U03d5  # not phi
+<Multi_key> <ampersand> <A>                 : "Α" U0391
+<Multi_key> <ampersand> <a>                 : "α" U03b1
+<Multi_key> <ampersand> <B>                 : "Β" U0392
+<Multi_key> <ampersand> <b>                 : "β" U03b2
+<Multi_key> <ampersand> <G>                 : "Γ" U0393
+<Multi_key> <ampersand> <g>                 : "γ" U03b3
+<Multi_key> <ampersand> <D>                 : "Δ" U03b4
+<Multi_key> <ampersand> <d>                 : "δ" U03b4
+<Multi_key> <ampersand> <E>                 : "Ε" U0395
+<Multi_key> <ampersand> <e>                 : "ε" U03b5
+<Multi_key> <ampersand> <Z>                 : "Ζ" U0396
+<Multi_key> <ampersand> <z>                 : "ζ" U03b6
+<Multi_key> <ampersand> <H>                 : "Η" U0397
+<Multi_key> <ampersand> <h>                 : "η" U03b7
+<Multi_key> <ampersand> <H>                 : "Θ" U0398
+<Multi_key> <ampersand> <h>                 : "θ" U03b8
+<Multi_key> <ampersand> <I>                 : "Ι" U0399
+<Multi_key> <ampersand> <i>                 : "ι" U03b9
+<Multi_key> <ampersand> <K>                 : "Κ" U039a
+<Multi_key> <ampersand> <k>                 : "κ" U03ba
+<Multi_key> <ampersand> <L>                 : "Λ" U039b
+<Multi_key> <ampersand> <l>                 : "λ" U03bb
+<Multi_key> <ampersand> <M>                 : "Μ" U039c
+<Multi_key> <ampersand> <m>                 : "μ" U03bc
+<Multi_key> <ampersand> <N>                 : "Ν" U039d
+<Multi_key> <ampersand> <n>                 : "ν" U03bd
+<Multi_key> <ampersand> <X>                 : "Ξ" U039e
+<Multi_key> <ampersand> <x>                 : "ξ" U03be
+<Multi_key> <ampersand> <O>                 : "Ο" U039f
+<Multi_key> <ampersand> <o>                 : "ο" U03bf
+<Multi_key> <ampersand> <P>                 : "Π" U03a0
+<Multi_key> <ampersand> <p>                 : "π" U03c0
+<Multi_key> <ampersand> <R>                 : "Ρ" U03a1
+<Multi_key> <ampersand> <r>                 : "ρ" U03c1
+<Multi_key> <ampersand> <S>                 : "Σ" U03a3
+<Multi_key> <ampersand> <s>                 : "σ" U03c3
+<Multi_key> <ampersand> <$>                 : "ς" U03c2
+<Multi_key> <ampersand> <T>                 : "Τ" U03a4
+<Multi_key> <ampersand> <t>                 : "τ" U03c4
+<Multi_key> <ampersand> <U>                 : "Υ" U03a5
+<Multi_key> <ampersand> <u>                 : "υ" U03c5
+<Multi_key> <ampersand> <F>                 : "Φ" U03a6
+<Multi_key> <ampersand> <f>                 : "φ" U03c6
+<Multi_key> <ampersand> <C>                 : "Χ" U03a7
+<Multi_key> <ampersand> <c>                 : "χ" U03c7
+<Multi_key> <ampersand> <W>                 : "Ψ" U03a8
+<Multi_key> <ampersand> <w>                 : "ψ" U03c8
+<Multi_key> <ampersand> <Q>                 : "Ω" U03a9
+<Multi_key> <ampersand> <q>                 : "ω" U03c9
+
+# Emoticons
+# Smiley face is in core
+<Multi_key> <semicolon> <parenright>        : "😉" U1f609 # Winking face
