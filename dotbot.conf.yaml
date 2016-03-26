@@ -44,6 +44,8 @@
     ~/.config/mpd/mpd.conf:
       path: mpd/mpd.conf
       create: true
+    
+    #ncmcpp
     ~/.ncmpcpp/config:
       create: true
       path: ncmpcpp/config
@@ -94,9 +96,7 @@
     ~/.config/vifm: vifm
 
     #redshift
-    ~/.config/redshift.conf:
-      path: redshift/redshift.conf
-      create: true
+    ~/.config/redshift.conf: redshift/redshift.conf
 
     #scripts
     ~/.config/scripts: scripts
