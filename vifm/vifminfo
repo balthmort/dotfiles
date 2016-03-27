@@ -32,192 +32,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/mort/tmp
-	bmpanel2
-1
-d/home/mort/tmp/bmpanel2
-	themes
-6
-d/home/mort/tmp/bmpanel2/themes
-	striped
-17
-d/home/mort/tmp/bmpanel2/themes/striped
-	..
-0
-d/home/mort/tmp/bmpanel2/themes
-	..
-0
-d/home/mort/tmp/bmpanel2
-	..
-0
-d/home/mort/tmp
-	..
-0
-d/home/mort
-	music
-11
-d/home/mort/music
-	In Flames - Siren Charms (2014)
-2
-d/home/mort/music/In Flames - Siren Charms (2014)
-	..
-0
-d/home/mort/music
-	..
-0
-d/home/mort
-	Obrázky
-3
-d/home/mort/Obrázky
-	..
-0
-d/home/mort
-	Dokumenty
-1
-d/home/mort/Dokumenty
-	BFY
-1
-d/home/mort/Dokumenty/BFY
-	IFY
-1
-d/home/mort/Dokumenty/BFY/IFY
-	17
-2
-d/home/mort/Dokumenty/BFY/IFY/17
-	..
-0
-d/home/mort/Dokumenty/BFY/IFY
-	..
-0
-d/home/mort/Dokumenty/BFY
-	Nový
-2
-d/home/mort/Dokumenty/BFY/Nový
-	..
-0
-d/home/mort/Dokumenty/BFY
-	IFY
-1
-d/home/mort/Dokumenty/BFY/IFY
-	10
-1
-d/home/mort/Dokumenty/BFY/IFY/10
-	..
-0
-d/home/mort/Dokumenty/BFY/IFY
-	18
-3
-d/home/mort/Dokumenty/BFY/IFY/18
-	..
-0
-d/home/mort/Dokumenty/BFY/IFY
-	41
-5
-d/home/mort/Dokumenty/BFY/IFY/41
-	..
-0
-d/home/mort/Dokumenty/BFY/IFY
-	..
-0
-d/home/mort/Dokumenty/BFY
-	protokoly
-3
-d/home/mort/Dokumenty/BFY/protokoly
-	17
-1
-d/home/mort/Dokumenty/BFY/protokoly/17
-	..
-0
-d/home/mort/Dokumenty/BFY/protokoly
-	17
-1
-d/home/mort/Dokumenty/BFY/protokoly/17
-	..
-0
-d/home/mort/Dokumenty/BFY/protokoly
-	..
-0
-d/home/mort/Dokumenty/BFY
-	IFY
-1
-d/home/mort/Dokumenty/BFY/IFY
-	17
-2
-d/home/mort/Dokumenty/BFY/IFY/17
-	..
-0
-d/home/mort/Dokumenty/BFY/IFY
-	17
-2
-d/home/mort/Dokumenty/BFY/IFY/17
-	..
-0
-d/home/mort/Dokumenty/BFY/IFY
-	..
-0
-d/home/mort/Dokumenty/BFY
-	..
-0
-d/home/mort/Dokumenty
-	..
-0
-d/home/mort
-	Videa
-8
-d/home/mort/Videa
-	..
-0
-d/home/mort
-	Stažené
-6
-d/home/mort/Stažené
-	..
-0
-d/home/mort
-	Stažené
-6
-d/home/mort/Stažené
-	..
-0
-d/home/mort
-	MultiMC
-3
-d/home/mort/MultiMC
-	bin
-1
-d/home/mort/MultiMC/bin
-	..
-0
-d/home/mort/MultiMC
-	plugins
-2
-d/home/mort/MultiMC/plugins
-	..
-0
-d/home/mort/MultiMC
-	bin
-1
-d/home/mort/MultiMC/bin
-	..
-0
-d/home/mort/MultiMC
-	..
-0
-d/home/mort
-	MultiMC
-3
-d/home/mort/MultiMC
-	translations
-3
-d/home/mort/MultiMC/translations
-	..
-0
-d/home/mort/MultiMC
-	plugins
-2
-d/home/mort/MultiMC/plugins
-	..
-0
 d/home/mort/MultiMC
 	bin
 1
@@ -330,176 +144,197 @@ d/home/mort/Dokumenty
 	..
 0
 d/home/mort
-	Dokumenty
+	old
+13
+d/home/mort/old
+	..
+0
+d/home/mort
+	old
+13
+d/home
+	mort
+2
+d/
+	run
+13
+d/run
+	media
+18
+d/run/media
+	mort
 1
+d/run/media/mort
+	NOVÝ SVAZEK
+1
+d/run/media/mort/NOVÝ SVAZEK
+	..
+0
+d/run/media/mort
+	NOVÝ SVAZEK
+1
+d/run/media
+	mort
+1
+d/run/media/mort
+	Morrigan
+1
+d/run/media/mort/Morrigan
+	
+1
+d/run/media/mort
+	..
+0
+d/run/media
+	mort
+1
+d/run/media/mort
+	Taranis
+1
+d/run/media/mort/Taranis
+	Filmy a seriály
+3
+d/run/media/mort/Taranis/Filmy a seriály
+	Monty Python and the Holy Grail
+18
+d/run/media/mort/Taranis/Filmy a seriály/Monty Python and the Holy Grail
+	Monty.Python.and.the.Holy.Grail.1975.1080p.BluRay.x264.anoXmous.mkv
+1
+d/run/media/mort/Taranis/Filmy a seriály
+	SAO
+19
+d/run/media/mort/Taranis/Filmy a seriály/SAO
+	Season 1
+1
+d/run/media/mort/Taranis/Filmy a seriály/SAO/Season 1
+	..
+0
+d/run/media/mort/Taranis/Filmy a seriály/SAO
+	Season 1
+1
+d/run/media/mort/Taranis/Filmy a seriály
+	Avatar
+1
+d/run/media/mort/Taranis/Filmy a seriály/Avatar
+	Book 1 - Water
+1
+d/run/media/mort/Taranis/Filmy a seriály/Avatar/Book 1 - Water
+	Avatar - The Last Airbender - Book 1 'Water' - 20 - The Siege of the North Part 2.srt
+23
+d/run/media/mort/Taranis/Filmy a seriály/Avatar
+	Book 1 - Water
+1
+d/run/media/mort/Taranis/Filmy a seriály
+	SAO
+19
+d/run/media/mort/Taranis/Filmy a seriály/SAO
+	Season 1
+1
+d/run/media/mort/Taranis/Filmy a seriály/SAO/Season 1
+	..
+0
+d/run/media/mort/Taranis/Filmy a seriály/SAO
+	Season 1
+1
+d/run/media/mort/Taranis/Filmy a seriály/SAO/Season 1
+	Sword-Art-Online-01.díl-CzTitl..mkv
+1
+d/run/media/mort/Taranis/Filmy a seriály/SAO
+	Season 1
+1
+d/run/media/mort/Taranis/Filmy a seriály
+	SAO
+19
+d/run/media/mort/Taranis
+	Filmy a seriály
+3
+d/run/media/mort
+	Taranis
+1
+d/run/media
+	mort
+1
+d/run
+	..
+0
+d/
+	usr
+18
+d/usr
+	share
+9
+d/usr/share
+	nginx
+19
+d/usr/share/nginx
+	html
+1
+d/usr/share/nginx/html
+	index.html
+3
+d/usr/share/nginx
+	html
+1
+d/usr/share
+	nginx
+19
+d/usr/share/nginx
+	html
+1
+d/usr/share/nginx/html
+	index.html
+3
+d/usr/share/nginx
+	html
+1
+d/usr/share
+	nginx
+19
+d/usr
+	share
+9
+d/
+	home
+4
+d/home
+	mort
+2
+d/home/mort
+	www
+17
+d/home/mort/www
+	html
+1
+d/home/mort/www/html
+	..
+0
+d/home/mort/www
+	html
+1
+d/home/mort
+	www
+17
+d/home
+	mort
+2
+d/
+	home
+4
+d/home
+	mort
+2
+d/home/mort
+	www
+18
+d/home/mort/www
+	test
+2
+d/home/mort/www/test
+	..
+0
 d
 
 # Right window history (oldest to newest):
-D/home/mort
-	Dokumenty
-4
-D/home/mort/Dokumenty
-	MultiMC
-8
-D/home/mort/Dokumenty/MultiMC
-	..
-0
-D/home/mort/Dokumenty
-	MultiMC
-8
-D/home/mort/Dokumenty/MultiMC
-	bin
-1
-D/home/mort/Dokumenty/MultiMC/bin
-	..
-0
-D/home/mort/Dokumenty/MultiMC
-	..
-0
-D/home/mort/Dokumenty
-	MultiMC
-8
-D/home/mort/Dokumenty/MultiMC
-	..
-0
-D/home/mort/Dokumenty
-	..
-0
-D/home/mort
-	Windows
-14
-D/home/mort/Windows
-	Hry
-6
-D/home/mort/Windows/Hry
-	MultiMC
-11
-D/home/mort/Windows/Hry/MultiMC
-	instances
-6
-D/home/mort/Windows/Hry/MultiMC/instances
-	Magic v1.1
-2
-D/home/mort/Windows/Hry/MultiMC/instances/Magic v1.1
-	minecraft
-1
-D/home/mort/Windows/Hry/MultiMC/instances/Magic v1.1/minecraft
-	..
-0
-D/home/mort/Windows/Hry/MultiMC/instances/Magic v1.1
-	..
-0
-D/home/mort/Windows/Hry/MultiMC/instances
-	..
-0
-D/home/mort/Windows/Hry/MultiMC
-	..
-0
-D/home/mort/Windows/Hry
-	..
-0
-D/home/mort/Windows
-	..
-0
-D/home/mort
-	Dokumenty
-7
-D/home/mort/Dokumenty
-	BZKR_img
-3
-D/home/mort/Dokumenty/BZKR_img
-	..
-0
-D/home/mort/Dokumenty
-	projekty_old
-9
-D/home/mort/Dokumenty/projekty_old
-	.git
-1
-D/home/mort/Dokumenty/projekty_old/.git
-	..
-0
-D/home/mort/Dokumenty/projekty_old
-	..
-0
-D/home/mort/Dokumenty
-	SPS
-7
-D/home/mort/Dokumenty/SPS
-	..
-0
-D/home/mort/Dokumenty
-	..
-0
-D/home/mort
-	Obrázky
-10
-D/home/mort/Obrázky
-	..
-0
-D/home/mort
-	Plocha
-11
-D/home/mort/Plocha
-	..
-0
-D/home/mort
-	Stažené
-13
-D/home/mort/Stažené
-	Ag
-1
-D/home/mort/Stažené/Ag
-	..
-0
-D/home/mort/Stažené
-	FunExt
-2
-D/home/mort/Stažené/FunExt
-	..
-0
-D/home/mort/Stažené
-	skola
-3
-D/home/mort/Stažené/skola
-	..
-0
-D/home/mort/Stažené
-	..
-0
-D/home/mort
-	Veřejné
-14
-D/home/mort/Veřejné
-	..
-0
-D/home/mort
-	Videa
-15
-D/home/mort/Videa
-	Hellsing Ultimate
-2
-D/home/mort/Videa/Hellsing Ultimate
-	..
-0
-D/home/mort/Videa
-	..
-0
-D/home/mort
-	MultiMC
-5
-D/home/mort/MultiMC
-	..
-0
-D/home/mort
-	.config
-4
-D/home/mort/.config
-	autostart
-3
-D/home/mort/.config/autostart
-	..
-0
 D/home/mort/.config
 	cef_user_data
 4
@@ -635,6 +470,171 @@ D/home/mort/.config/cef_user_data
 D/home/mort/.config
 	cef_user_data
 4
+D/home/mort/.config/cef_user_data
+	..
+0
+D/home/mort/.config
+	cef_user_data
+4
+D/home/mort
+	.config
+4
+D/home
+	.vifm-Trash
+1
+D/home/.vifm-Trash
+	000_Changeling the Lost
+1
+D/home/.vifm-Trash/000_Changeling the Lost
+	..
+0
+D/home/.vifm-Trash
+	000_Hellsing Ultimate
+2
+D/home/.vifm-Trash/000_Hellsing Ultimate
+	..
+0
+D/home/.vifm-Trash
+	000_Videa
+3
+D/home/.vifm-Trash/000_Videa
+	..
+0
+D/home/.vifm-Trash
+	000_mail
+4
+D/home/.vifm-Trash/000_mail
+	..
+0
+D/home/.vifm-Trash
+	000_nwod
+5
+D/home/.vifm-Trash/000_nwod
+	..
+0
+D/home/.vifm-Trash
+	000_radeon
+6
+D/home/.vifm-Trash/000_radeon
+	..
+0
+D/home/.vifm-Trash
+	001_Videa
+7
+D/home/.vifm-Trash/001_Videa
+	..
+0
+D/home/.vifm-Trash
+	001_Videa
+7
+D/home
+	mort
+3
+D/home/mort
+	old
+14
+D/home/mort/old
+	..
+0
+D/home/mort
+	Videa
+10
+D/home/mort/Videa
+	mount
+8
+D/home/mort
+	Windows
+12
+D/home/mort/Windows
+	..
+0
+D/home/mort
+	Windows
+12
+D/home/mort/Windows
+	..
+0
+D/home/mort
+	Windows
+12
+D/home/mort/Windows
+	..
+0
+D/home/mort
+	.weechat
+5
+D/home/mort/.weechat
+	..
+0
+D/home/mort
+	SPS_disk
+12
+D/home/mort/SPS_disk
+	SPS
+9
+D/home/mort/SPS_disk/SPS
+	Dan
+1
+D/home/mort/SPS_disk/SPS/Dan
+	..
+0
+D/home/mort/SPS_disk/SPS
+	Foto
+2
+D/home/mort/SPS_disk/SPS/Foto
+	..
+0
+D/home/mort/SPS_disk/SPS
+	e-fekt
+3
+D/home/mort/SPS_disk/SPS/e-fekt
+	..
+0
+D/home/mort/SPS_disk/SPS
+	nic
+4
+D/home/mort/SPS_disk/SPS/nic
+	..
+0
+D/home/mort/SPS_disk/SPS
+	Služby vrátných.xlsx
+5
+D/home/mort/SPS_disk
+	SPS
+9
+D/home/mort
+	SPS_disk
+12
+D/home
+	mort
+3
+D/home/mort
+	Dokumenty
+7
+D/home/mort/Dokumenty
+	nWoD
+8
+D/home/mort/Dokumenty/nWoD
+	Promethean - The Created
+6
+D/home/mort/Dokumenty/nWoD/Promethean - The Created
+	SAS
+1
+D/home/mort/Dokumenty/nWoD/Promethean - The Created/SAS
+	Promethean the Created - SAS - To The Flame.pdf
+1
+D/home/mort/Dokumenty/nWoD/Promethean - The Created
+	SAS
+1
+D/home/mort/Dokumenty/nWoD
+	Mage - The Awakening
+4
+D/home/mort/Dokumenty/nWoD/Mage - The Awakening
+	Demo
+1
+D/home/mort/Dokumenty/nWoD/Mage - The Awakening/Demo
+	1 - Gazing into You - Gloria Mundi.pdf
+1
 D
 
 # Command line history (oldest to newest):
@@ -651,6 +651,7 @@ D
 :link
 :zo
 :Q
+:mkdir www
 :q
 
 # Search history (oldest to newest):
@@ -661,16 +662,18 @@ D
 /media
 /sta
 /.confi
+/nginx
 
 # Prompt history (oldest to newest):
 p.conkyrc
 pzaloha_telefon
 pIAESTE_vecere_foto
+pnginx
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/mort/.local/share/vifm/Trash/000_xfce4
+""/usr/share/nginx/html
 
 # Directory stack (oldest to newest):
 
@@ -731,6 +734,8 @@ t/home/mort/.local/share/vifm/Trash/000_pnmixer
 	/home/mort/.config/pnmixer
 t/home/mort/.local/share/vifm/Trash/000_xfce4
 	/home/mort/.config/xfce4
+t/home/.vifm-Trash/000_old
+	/home/mort/old
 
 # State:
 f
