@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-st
-feh --bg-scale /home/mort/system/dotfiles/misc/The-darkness-wall.jpg
-mpd
-redshift
-firefox
+st &
+feh --bg-scale /home/mort/system/dotfiles/misc/The-darkness-wall.jpg &
+redshift &
+firefox &
