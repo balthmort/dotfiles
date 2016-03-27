@@ -2,7 +2,8 @@
 My personal configuration. 
 
 ##Instalation
-Download this little script and pray :)\
+Download this little script and pray :)
+
 `https://raw.githubusercontent.com/balthmort/dotfiles/master/install.sh`
 
 #Note
