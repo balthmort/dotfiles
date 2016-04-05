@@ -5,9 +5,9 @@
 [submodule "vim"]
   path = vim
   url = https://github.com/balthmort/vim-config.git
-[submodule "zsh"]
-  path = zsh
-  url = https://github.com/balthmort/zsh-config.git
-[submodule "tpm"]
+[submodule "tmux/tpm"]
   path = tmux/tpm
   url = https://github.com/tmux-plugins/tpm.git
+[submodule "zsh"]
+	path = zsh
+	url = https://github.com/balthmort/zsh-config.git

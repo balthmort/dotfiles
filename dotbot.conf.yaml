@@ -107,9 +107,6 @@
     # latexmk
     ~/.latexmkrc: latexmkrc
     
-    # pandoc
-    ~/.pandoc/templates: pandoc/templates
-
     #i3
     ~/.config/i3/config: i3/config
     ~/.config/i3status/config: 

@@ -12,3 +12,6 @@
 
 [diff]
   submodule = log
+[user]
+	email = baltmort@gmail.com
+	name = Petr Surý
