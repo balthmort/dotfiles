@@ -108,7 +108,9 @@
     ~/.latexmkrc: latexmkrc
     
     #i3
-    ~/.config/i3/config: i3/config
+    ~/.config/i3/config: 
+      path: i3/config
+      create: true
     ~/.config/i3status/config: 
       path: i3/i3status.conf
       create: true
