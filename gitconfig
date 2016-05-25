@@ -13,8 +13,8 @@
 [diff]
   submodule = log
 [user]
-	email = baltmort@gmail.com
-	name = Petr Surý
+    email = baltmort@gmail.com
+    name = Petr Surý
 
 [gpg]
   program = gpg2
