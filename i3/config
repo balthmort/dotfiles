@@ -92,29 +92,42 @@ bindsym $mod+a focus parent
 # focus the child container
 #bindsym $mod+d focus child
 
+## Definitions
+set $code   1: code
+set $web    2: web
+set $doc    3: doc
+set $mail   4: mail
+set $games  5: games
+set $chat   6: chat
+
 # switch to workspac
-bindsym $mod+plus workspace 1
-bindsym $mod+ecaron workspace 2
-bindsym $mod+scaron workspace 3
-bindsym $mod+ccaron workspace 4
-bindsym $mod+rcaron workspace 5
-bindsym $mod+zcaron workspace 6
+bindsym $mod+plus   workspace $code
+bindsym $mod+ecaron workspace $web
+bindsym $mod+scaron workspace $doc
+bindsym $mod+ccaron workspace $mail
+bindsym $mod+rcaron workspace $games
+bindsym $mod+zcaron workspace $chat
 bindsym $mod+yacute workspace 7
 bindsym $mod+aacute workspace 8
 bindsym $mod+iacute workspace 9
 bindsym $mod+eacute workspace 10
 
+
 # move focused container to workspace
-bindsym $mod+Shift+plus move container to workspace 1
-bindsym $mod+Shift+ecaron move container to workspace 2
-bindsym $mod+Shift+scaron move container to workspace 3
-bindsym $mod+Shift+ccaron move container to workspace 4
-bindsym $mod+Shift+rcaron move container to workspace 5
-bindsym $mod+Shift+zcaron move container to workspace 6
+bindsym $mod+Shift+plus   move container to workspace $code
+bindsym $mod+Shift+ecaron move container to workspace $web
+bindsym $mod+Shift+scaron move container to workspace $doc
+bindsym $mod+Shift+ccaron move container to workspace $mail
+bindsym $mod+Shift+rcaron move container to workspace $games
+bindsym $mod+Shift+zcaron move container to workspace $chat
 bindsym $mod+Shift+yacute move container to workspace 7
 bindsym $mod+Shift+aacute move container to workspace 8
 bindsym $mod+Shift+iacute move container to workspace 9
 bindsym $mod+Shift+eacute move container to workspace 10
+
+## Speicific app appearance
+for_window [class="^st"] border none
+for_window [class="[Zz]athura"] border none
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
@@ -175,10 +188,14 @@ mode "$mode_system" {
 bindsym $mod+Escape mode "$mode_system"
 
 #assign windows
-assign [class="st"] → 1
-assign [class="Firefox"] → 2
-assign [class="Zathura"] → 3
-assign [class="Thunderbird"] → 4
+assign [class="^st"]            $code
+assign [class="^Firefox$"]      $web
+assign [class="[Zz]athura"]     $doc
+assign [title="LibreOffice"]    $doc
+assign [class="^Thunderbird$"]  $mail
+assign [class="chat"]           $chat
+assign [class="[sS]team"]       $games
+
 
 #exec on start
 exec --no-startup-id ~/system/dotfiles/scripts/starter-i3.sh
@@ -197,4 +214,5 @@ bindsym XF86AudioMute exec --no-startup-id amixer set Master toggle
 bindsym XF86MonBrightnessUp exec xbacklight +10
 #decrease brightness
 bindsym XF86MonBrightnessDown exec xbacklight -10
-
+## IRC
+bindsym $mod+c      exec st -c 'chat' -e tmux new-session -A -s irc weechat

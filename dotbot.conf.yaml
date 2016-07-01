@@ -24,7 +24,7 @@
     # Weechat
     ~/.weechat:
       force: true
-      path: weechat
+      path: weechat-config
 
     # dunst
     ~/.config/dunst/dunstrc:
