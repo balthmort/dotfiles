@@ -479,3 +479,72 @@
 2016-06-29 19:52:33		URL server stopped
 2016-06-29 19:52:33		python: skripty odebrány
 2016-06-29 19:52:33		perl: skripty odebrány
+2016-07-01 23:51:59		načteny perl skripty: buffers, iset
+2016-07-01 23:52:01		URL server listening on ('192.168.0.100', 44749)
+2016-07-01 23:52:01		načteny python skripty: theme, urlserver
+2016-07-01 23:52:01		script: 309 skripty pro WeeChat 1.5
+2016-07-01 23:52:01		Načtené pluginy: alias, aspell, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-07-02 00:06:48	=!=	Není dostupná žádná nápověda, "fbjoin" není příkaz nebo volba
+2016-07-02 00:22:01		URL server stopped
+2016-07-02 00:22:01		python: skripty odebrány
+2016-07-02 00:22:01		fifo: roura zavřena
+2016-07-02 00:22:01		perl: skripty odebrány
+2016-07-02 00:22:04		načteny perl skripty: buffers, iset
+2016-07-02 00:22:04		URL server listening on ('192.168.0.100', 43029)
+2016-07-02 00:22:04		načteny python skripty: theme, urlserver
+2016-07-02 00:22:04		script: 309 skripty pro WeeChat 1.5
+2016-07-02 00:22:04		Načtené pluginy: alias, aspell, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-07-02 00:27:29		Volby uloženy do sec.conf
+2016-07-02 00:27:29		Volby uloženy do weechat.conf
+2016-07-02 00:27:29		Volby uloženy do plugins.conf
+2016-07-02 00:27:29		Volby uloženy do charset.conf
+2016-07-02 00:27:29		Volby uloženy do logger.conf
+2016-07-02 00:27:29		Volby uloženy do exec.conf
+2016-07-02 00:27:29		Volby uloženy do trigger.conf
+2016-07-02 00:27:29		Volby uloženy do aspell.conf
+2016-07-02 00:27:29		Volby uloženy do alias.conf
+2016-07-02 00:27:29		Volby uloženy do xfer.conf
+2016-07-02 00:27:29		Volby uloženy do irc.conf
+2016-07-02 00:27:29		Volby uloženy do relay.conf
+2016-07-02 00:27:29		Volby uloženy do buffers.conf
+2016-07-02 00:27:29		Volby uloženy do iset.conf
+2016-07-02 00:27:29		Volby uloženy do theme.conf
+2016-07-02 00:27:29		Volby uloženy do script.conf
+2016-07-02 00:27:55		URL server stopped
+2016-07-02 00:27:55		python: skripty odebrány
+2016-07-02 00:27:55		fifo: roura zavřena
+2016-07-02 00:27:55		perl: skripty odebrány
+2016-07-02 00:27:59		načteny perl skripty: buffers, iset
+2016-07-02 00:27:59		URL server listening on ('192.168.0.100', 36173)
+2016-07-02 00:27:59		načteny python skripty: theme, urlserver
+2016-07-02 00:27:59		script: 309 skripty pro WeeChat 1.5
+2016-07-02 00:27:59		Načtené pluginy: alias, aspell, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-07-02 00:31:22		Volby uloženy do sec.conf
+2016-07-02 00:31:22		Volby uloženy do weechat.conf
+2016-07-02 00:31:22		Volby uloženy do plugins.conf
+2016-07-02 00:31:22		Volby uloženy do charset.conf
+2016-07-02 00:31:22		Volby uloženy do logger.conf
+2016-07-02 00:31:22		Volby uloženy do exec.conf
+2016-07-02 00:31:22		Volby uloženy do trigger.conf
+2016-07-02 00:31:22		Volby uloženy do aspell.conf
+2016-07-02 00:31:22		Volby uloženy do alias.conf
+2016-07-02 00:31:22		Volby uloženy do xfer.conf
+2016-07-02 00:31:22		Volby uloženy do irc.conf
+2016-07-02 00:31:22		Volby uloženy do relay.conf
+2016-07-02 00:31:22		Volby uloženy do buffers.conf
+2016-07-02 00:31:22		Volby uloženy do iset.conf
+2016-07-02 00:31:22		Volby uloženy do theme.conf
+2016-07-02 00:31:22		Volby uloženy do script.conf
+2016-07-02 00:31:28		URL server stopped
+2016-07-02 00:31:28		python: skripty odebrány
+2016-07-02 00:31:28		fifo: roura zavřena
+2016-07-02 00:31:28		perl: skripty odebrány
+2016-07-02 00:31:30		načteny perl skripty: buffers, iset
+2016-07-02 00:31:30		URL server listening on ('192.168.0.100', 33399)
+2016-07-02 00:31:30		načteny python skripty: theme, urlserver
+2016-07-02 00:31:30		script: 309 skripty pro WeeChat 1.5
+2016-07-02 00:31:30		Načtené pluginy: alias, aspell, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-07-02 00:34:15		URL server stopped
+2016-07-02 00:34:15		python: skripty odebrány
+2016-07-02 00:34:15		fifo: roura zavřena
+2016-07-02 00:34:15		perl: skripty odebrány

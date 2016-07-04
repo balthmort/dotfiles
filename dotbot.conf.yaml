@@ -24,7 +24,7 @@
     # Weechat
     ~/.weechat:
       force: true
-      path: weechat-config
+      path: weechat
 
     # dunst
     ~/.config/dunst/dunstrc:
@@ -76,14 +76,6 @@
     ~/.config/udiskie: udiskie/
     ~/.config/systemd/user/udiskie.service:
       path: udiskie/udiskie.service
-      create: true
-    
-    # connman
-    ~/.config/systemd/user/connman-notify.service: connman/connman-notify.service
-
-    #conky
-    ~/.conkyrc:
-      path: conky/conkyrc
       create: true
 
     #openbox

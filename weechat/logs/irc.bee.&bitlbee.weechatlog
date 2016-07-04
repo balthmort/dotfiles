@@ -17334,3 +17334,424 @@
 2016-06-29 19:51:54	<--	AlexandraSujanska (1504510497@facebook) skončil (Leaving...)
 2016-06-29 19:52:20	<--	MartinHolcik (100005841967425@facebook) skončil (Leaving...)
 2016-06-29 19:52:27	<--	JanSimko (100001273648751@facebook) skončil (Leaving...)
+2016-07-01 23:52:01	-->	mort (mort@localhost) has joined &bitlbee
+2016-07-01 23:52:01	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-07-01 23:52:01	--	Téma nastavil root (root@localhost) v Pá, 01 čec 2016 23:52:01
+2016-07-01 23:52:01	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-07-01 23:52:01	@root	Welcome to the BitlBee gateway!
+2016-07-01 23:52:01	@root	 
+2016-07-01 23:52:01	@root	Running BitlBee-LIBPURPLE 3.4.2
+2016-07-01 23:52:01	@root	 
+2016-07-01 23:52:01	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-07-01 23:52:01	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-07-01 23:52:01	@root	The nick is (probably) not registered
+2016-07-01 23:52:49	@mort	acc 
+2016-07-01 23:52:49	@root	Not enough parameters given (need 1).
+2016-07-01 23:52:52	@mort	acc list
+2016-07-01 23:52:52	@root	End of account list
+2016-07-01 23:53:26	@mort	acc add jabber balthmort@gmail.com
+2016-07-01 23:53:26	@root	Account successfully added with tag gtalk
+2016-07-01 23:53:26	@root	You can now use the /OPER command to enter the password
+2016-07-01 23:53:26	@root	Alternatively, enable OAuth if the account supports it: account gtalk set oauth on
+2016-07-01 23:53:45	@mort	acc list
+2016-07-01 23:53:45	@root	 0 (gtalk): jabber, balthmort@gmail.com
+2016-07-01 23:53:45	@root	End of account list
+2016-07-01 23:53:57	@mort	acc jabber set oauth on
+2016-07-01 23:53:57	@root	oauth = `on'
+2016-07-01 23:54:06	@mort	acc jabber on
+2016-07-01 23:54:06	@root	jabber - Logging in: Starting OAuth authentication
+2016-07-02 00:04:06	@root	jabber - Logging in: Requesting OAuth access token
+2016-07-02 00:04:06	@root	jabber - Logging in: Connecting
+2016-07-02 00:04:06	@root	jabber - Logging in: Connected to server, logging in
+2016-07-02 00:04:06	@root	jabber - Logging in: Converting stream to TLS
+2016-07-02 00:04:06	@root	jabber - Logging in: Connected to server, logging in
+2016-07-02 00:04:06	@root	jabber - Logging in: Authentication finished
+2016-07-02 00:04:06	@root	jabber - Logging in: Server changed session resource string to `BitlBee851EB5EF'
+2016-07-02 00:04:06	@root	jabber - Logging in: Authenticated, requesting buddy list
+2016-07-02 00:04:07	@root	jabber - Logging in: Logged in
+2016-07-02 00:04:07	-->	stepanvenclik (stepan.venclik@gmail.com) has joined &bitlbee
+2016-07-02 00:04:07	-->	_2hy437gq6ahyh1j6q0184s (2hy437gq6ahyh1j6q0184sevgz@public.talk.google.com) has joined &bitlbee
+2016-07-02 00:05:56	@mort	acc add facebook balthmort@gmail.com Md954753
+2016-07-02 00:05:56	@root	Unknown protocol
+2016-07-02 00:06:38	@mort	acc list
+2016-07-02 00:06:38	@root	 0 (gtalk): jabber, balthmort@gmail.com (connected)
+2016-07-02 00:06:38	@root	End of account list
+2016-07-02 00:08:35	--	irc: odpojen od serveru
+2016-07-02 00:08:46	mort	identify Md954753
+2016-07-02 00:08:46	-->	mort (mort@localhost) has joined &bitlbee
+2016-07-02 00:08:46	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-07-02 00:08:46	--	Téma nastavil root (root@localhost) v So, 02 čec 2016 00:08:46
+2016-07-02 00:08:46	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-07-02 00:08:46	@root	Welcome to the BitlBee gateway!
+2016-07-02 00:08:46	@root	 
+2016-07-02 00:08:46	@root	Running BitlBee-LIBPURPLE 3.4.2
+2016-07-02 00:08:46	@root	 
+2016-07-02 00:08:46	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-07-02 00:08:46	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-07-02 00:08:46	@root	The nick is (probably) not registered
+2016-07-02 00:08:47	@mort	acc add facebook balthmort@gmail.com Md954753
+2016-07-02 00:08:50	@root	Account successfully added with tag facebook
+2016-07-02 00:09:01	@mort	acc facebook on
+2016-07-02 00:09:01	@root	facebook - Logging in: Authenticating
+2016-07-02 00:09:03	@root	facebook - Logging in: Fetching contacts
+2016-07-02 00:09:06	@root	facebook - Logging in: Connecting
+2016-07-02 00:09:07	-->	JanMisak (1431345825@facebook) has joined &bitlbee
+2016-07-02 00:09:07	--	Mód &bitlbee [+v JanMisak] od localhost
+2016-07-02 00:09:07	-->	MatejLang (100000518233795@facebook) has joined &bitlbee
+2016-07-02 00:09:07	--	Mód &bitlbee [+v MatejLang] od localhost
+2016-07-02 00:09:07	-->	FrantisekBjalek (100000254303436@facebook) has joined &bitlbee
+2016-07-02 00:09:07	--	Mód &bitlbee [+v FrantisekBjalek] od localhost
+2016-07-02 00:09:07	-->	MiroslavMolinek (100000330652683@facebook) has joined &bitlbee
+2016-07-02 00:09:07	--	Mód &bitlbee [+v MiroslavMolinek] od localhost
+2016-07-02 00:09:07	-->	SarkaChwastkova (100000008120400@facebook) has joined &bitlbee
+2016-07-02 00:09:07	--	Mód &bitlbee [+v SarkaChwastkova] od localhost
+2016-07-02 00:09:07	-->	VasekHousePatocka (1805996011@facebook) has joined &bitlbee
+2016-07-02 00:09:07	--	Mód &bitlbee [+v VasekHousePatocka] od localhost
+2016-07-02 00:09:07	-->	OndrejAegnorBrinek (1741831391@facebook) has joined &bitlbee
+2016-07-02 00:09:07	--	Mód &bitlbee [+v OndrejAegnorBrinek] od localhost
+2016-07-02 00:09:07	-->	VasekStransky (1229872515@facebook) has joined &bitlbee
+2016-07-02 00:09:07	--	Mód &bitlbee [+v VasekStransky] od localhost
+2016-07-02 00:09:07	-->	JanMuller (100000027627495@facebook) has joined &bitlbee
+2016-07-02 00:09:07	--	Mód &bitlbee [+v JanMuller] od localhost
+2016-07-02 00:09:07	-->	DavidMichalik (1837387727@facebook) has joined &bitlbee
+2016-07-02 00:09:07	--	Mód &bitlbee [+v DavidMichalik] od localhost
+2016-07-02 00:09:07	-->	VeronikaKolajova (1416728122@facebook) has joined &bitlbee
+2016-07-02 00:09:07	--	Mód &bitlbee [+v VeronikaKolajova] od localhost
+2016-07-02 00:09:07	-->	OlegOlkov (100001715750020@facebook) has joined &bitlbee
+2016-07-02 00:09:07	--	Mód &bitlbee [+v OlegOlkov] od localhost
+2016-07-02 00:09:07	@root	facebook - Logging in: Logged in
+2016-07-02 00:09:14	-->	AlexandraSujanska (1504510497@facebook) has joined &bitlbee
+2016-07-02 00:09:14	--	Mód &bitlbee [+v AlexandraSujanska] od localhost
+2016-07-02 00:10:05	-->	KaterinaStrigaSeverova (100000207572368@facebook) has joined &bitlbee
+2016-07-02 00:10:05	--	Mód &bitlbee [+v KaterinaStrigaSeverova] od localhost
+2016-07-02 00:10:35	<--	SarkaChwastkova (100000008120400@facebook) skončil (Leaving...)
+2016-07-02 00:11:08	-->	VojtechVolak (100002293110115@facebook) has joined &bitlbee
+2016-07-02 00:11:08	--	Mód &bitlbee [+v VojtechVolak] od localhost
+2016-07-02 00:11:38	-->	MaraPicha (1774740500@facebook) has joined &bitlbee
+2016-07-02 00:11:38	--	Mód &bitlbee [+v MaraPicha] od localhost
+2016-07-02 00:11:38	-->	StefanMisik (1513489145@facebook) has joined &bitlbee
+2016-07-02 00:11:38	--	Mód &bitlbee [+v StefanMisik] od localhost
+2016-07-02 00:11:38	<--	VasekStransky (1229872515@facebook) skončil (Leaving...)
+2016-07-02 00:11:38	-->	MarekRusnak (1258046264@facebook) has joined &bitlbee
+2016-07-02 00:11:38	--	Mód &bitlbee [+v MarekRusnak] od localhost
+2016-07-02 00:11:38	-->	VladimirPokorny (100006584949068@facebook) has joined &bitlbee
+2016-07-02 00:11:38	--	Mód &bitlbee [+v VladimirPokorny] od localhost
+2016-07-02 00:12:02	-->	MichalSebesta (1326472519@facebook) has joined &bitlbee
+2016-07-02 00:12:02	--	Mód &bitlbee [+v MichalSebesta] od localhost
+2016-07-02 00:12:37	<--	MaraPicha (1774740500@facebook) skončil (Leaving...)
+2016-07-02 00:12:57	<--	KaterinaStrigaSeverova (100000207572368@facebook) skončil (Leaving...)
+2016-07-02 00:13:09	-->	KaterinaStrigaSeverova (100000207572368@facebook) has joined &bitlbee
+2016-07-02 00:13:09	--	Mód &bitlbee [+v KaterinaStrigaSeverova] od localhost
+2016-07-02 00:13:19	-->	BiankaTrencanova (1542634459@facebook) has joined &bitlbee
+2016-07-02 00:13:19	--	Mód &bitlbee [+v BiankaTrencanova] od localhost
+2016-07-02 00:13:30	<--	MatejLang (100000518233795@facebook) skončil (Leaving...)
+2016-07-02 00:13:57	<--	VojtechVolak (100002293110115@facebook) skončil (Leaving...)
+2016-07-02 00:14:09	-->	JiriSochor (1744654341@facebook) has joined &bitlbee
+2016-07-02 00:14:09	--	Mód &bitlbee [+v JiriSochor] od localhost
+2016-07-02 00:14:09	-->	KatkaMajerova (1826401335@facebook) has joined &bitlbee
+2016-07-02 00:14:09	--	Mód &bitlbee [+v KatkaMajerova] od localhost
+2016-07-02 00:14:09	-->	JirkaHorak (100000545547738@facebook) has joined &bitlbee
+2016-07-02 00:14:09	--	Mód &bitlbee [+v JirkaHorak] od localhost
+2016-07-02 00:14:09	<--	StefanMisik (1513489145@facebook) skončil (Leaving...)
+2016-07-02 00:14:09	<--	VeronikaKolajova (1416728122@facebook) skončil (Leaving...)
+2016-07-02 00:14:09	<--	OlegOlkov (100001715750020@facebook) skončil (Leaving...)
+2016-07-02 00:14:34	-->	MartinHolcik (100005841967425@facebook) has joined &bitlbee
+2016-07-02 00:14:34	--	Mód &bitlbee [+v MartinHolcik] od localhost
+2016-07-02 00:15:02	<--	MichalSebesta (1326472519@facebook) skončil (Leaving...)
+2016-07-02 00:15:33	-->	SarkaChwastkova (100000008120400@facebook) has joined &bitlbee
+2016-07-02 00:15:33	--	Mód &bitlbee [+v SarkaChwastkova] od localhost
+2016-07-02 00:16:23	<--	KaterinaStrigaSeverova (100000207572368@facebook) skončil (Leaving...)
+2016-07-02 00:16:25	<--	OndrejAegnorBrinek (1741831391@facebook) skončil (Leaving...)
+2016-07-02 00:16:37	<--	BiankaTrencanova (1542634459@facebook) skončil (Leaving...)
+2016-07-02 00:16:40	-->	DodossDudruRehak (1789331147@facebook) has joined &bitlbee
+2016-07-02 00:16:40	--	Mód &bitlbee [+v DodossDudruRehak] od localhost
+2016-07-02 00:16:40	<--	KatkaMajerova (1826401335@facebook) skončil (Leaving...)
+2016-07-02 00:16:40	-->	PavelDovrtel (1121933045@facebook) has joined &bitlbee
+2016-07-02 00:16:40	--	Mód &bitlbee [+v PavelDovrtel] od localhost
+2016-07-02 00:16:40	-->	MaraPicha (1774740500@facebook) has joined &bitlbee
+2016-07-02 00:16:40	--	Mód &bitlbee [+v MaraPicha] od localhost
+2016-07-02 00:16:40	<--	JirkaHorak (100000545547738@facebook) skončil (Leaving...)
+2016-07-02 00:16:40	-->	VeronikaKolajova (1416728122@facebook) has joined &bitlbee
+2016-07-02 00:16:40	--	Mód &bitlbee [+v VeronikaKolajova] od localhost
+2016-07-02 00:16:40	<--	MarekRusnak (1258046264@facebook) skončil (Leaving...)
+2016-07-02 00:16:48	-->	OndrejAegnorBrinek (1741831391@facebook) has joined &bitlbee
+2016-07-02 00:16:48	--	Mód &bitlbee [+v OndrejAegnorBrinek] od localhost
+2016-07-02 00:16:55	-->	TomasKovarik (1632087228@facebook) has joined &bitlbee
+2016-07-02 00:16:55	--	Mód &bitlbee [+v TomasKovarik] od localhost
+2016-07-02 00:17:43	-->	MatejLang (100000518233795@facebook) has joined &bitlbee
+2016-07-02 00:17:43	--	Mód &bitlbee [+v MatejLang] od localhost
+2016-07-02 00:18:27	<--	SarkaChwastkova (100000008120400@facebook) skončil (Leaving...)
+2016-07-02 00:19:11	<--	JiriSochor (1744654341@facebook) skončil (Leaving...)
+2016-07-02 00:19:11	<--	JanMisak (1431345825@facebook) skončil (Leaving...)
+2016-07-02 00:19:11	<--	DodossDudruRehak (1789331147@facebook) skončil (Leaving...)
+2016-07-02 00:19:11	<--	PavelDovrtel (1121933045@facebook) skončil (Leaving...)
+2016-07-02 00:19:11	-->	MarekRusnak (1258046264@facebook) has joined &bitlbee
+2016-07-02 00:19:11	--	Mód &bitlbee [+v MarekRusnak] od localhost
+2016-07-02 00:19:48	<--	OndrejAegnorBrinek (1741831391@facebook) skončil (Leaving...)
+2016-07-02 00:20:28	-->	DavidSantrucek (100000321486804@facebook) has joined &bitlbee
+2016-07-02 00:20:28	--	Mód &bitlbee [+v DavidSantrucek] od localhost
+2016-07-02 00:20:41	-->	VojtechVolak (100002293110115@facebook) has joined &bitlbee
+2016-07-02 00:20:41	--	Mód &bitlbee [+v VojtechVolak] od localhost
+2016-07-02 00:21:19	<--	MatejLang (100000518233795@facebook) skončil (Leaving...)
+2016-07-02 00:21:42	<--	MaraPicha (1774740500@facebook) skončil (Leaving...)
+2016-07-02 00:21:42	-->	JirkaHorak (100000545547738@facebook) has joined &bitlbee
+2016-07-02 00:21:42	--	Mód &bitlbee [+v JirkaHorak] od localhost
+2016-07-02 00:21:42	-->	RadekLandkamer (100000153902276@facebook) has joined &bitlbee
+2016-07-02 00:21:42	--	Mód &bitlbee [+v RadekLandkamer] od localhost
+2016-07-02 00:21:42	-->	JiriMucka (1292051661@facebook) has joined &bitlbee
+2016-07-02 00:21:42	--	Mód &bitlbee [+v JiriMucka] od localhost
+2016-07-02 00:21:42	<--	JanMuller (100000027627495@facebook) skončil (Leaving...)
+2016-07-02 00:21:42	<--	VeronikaKolajova (1416728122@facebook) skončil (Leaving...)
+2016-07-02 00:21:42	<--	VladimirPokorny (100006584949068@facebook) skončil (Leaving...)
+2016-07-02 00:21:49	-->	MartinSelinga (1209965424@facebook) has joined &bitlbee
+2016-07-02 00:21:49	--	Mód &bitlbee [+v MartinSelinga] od localhost
+2016-07-02 00:21:58	-->	SarkaChwastkova (100000008120400@facebook) has joined &bitlbee
+2016-07-02 00:21:58	--	Mód &bitlbee [+v SarkaChwastkova] od localhost
+2016-07-02 00:22:01	--	irc: odpojen od serveru
+2016-07-02 00:22:04	-->	mort (mort@localhost) has joined &bitlbee
+2016-07-02 00:22:04	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-07-02 00:22:04	--	Téma nastavil root (root@localhost) v So, 02 čec 2016 00:22:04
+2016-07-02 00:22:04	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-07-02 00:22:04	@root	Welcome to the BitlBee gateway!
+2016-07-02 00:22:04	@root	 
+2016-07-02 00:22:04	@root	Running BitlBee-LIBPURPLE 3.4.2
+2016-07-02 00:22:04	@root	 
+2016-07-02 00:22:04	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-07-02 00:22:04	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-07-02 00:22:04	@root	The nick is (probably) not registered
+2016-07-02 00:22:41	@mort	acc list¨
+2016-07-02 00:22:41	@root	Not enough parameters given (need 2).
+2016-07-02 00:22:45	@mort	acc list
+2016-07-02 00:22:45	@root	End of account list
+2016-07-02 00:24:24	@mort	acc add facebook balthmort@gmail.com Md954753
+2016-07-02 00:24:24	@root	Account successfully added with tag facebook
+2016-07-02 00:24:29	@mort	acc facebook on
+2016-07-02 00:24:29	@root	facebook - Logging in: Authenticating
+2016-07-02 00:24:31	@root	facebook - Logging in: Fetching contacts
+2016-07-02 00:24:33	@root	facebook - Logging in: Connecting
+2016-07-02 00:24:34	-->	TomasKovarik (1632087228@facebook) has joined &bitlbee
+2016-07-02 00:24:34	--	Mód &bitlbee [+v TomasKovarik] od localhost
+2016-07-02 00:24:34	-->	VojtechVolak (100002293110115@facebook) has joined &bitlbee
+2016-07-02 00:24:34	--	Mód &bitlbee [+v VojtechVolak] od localhost
+2016-07-02 00:24:34	-->	JanHruby (100000259606113@facebook) has joined &bitlbee
+2016-07-02 00:24:34	--	Mód &bitlbee [+v JanHruby] od localhost
+2016-07-02 00:24:34	-->	LubomirFriml (1611033063@facebook) has joined &bitlbee
+2016-07-02 00:24:34	--	Mód &bitlbee [+v LubomirFriml] od localhost
+2016-07-02 00:24:34	-->	FrantisekBjalek (100000254303436@facebook) has joined &bitlbee
+2016-07-02 00:24:34	--	Mód &bitlbee [+v FrantisekBjalek] od localhost
+2016-07-02 00:24:34	-->	MartinHolcik (100005841967425@facebook) has joined &bitlbee
+2016-07-02 00:24:34	--	Mód &bitlbee [+v MartinHolcik] od localhost
+2016-07-02 00:24:34	-->	LucieSaraJurcova (1513008308@facebook) has joined &bitlbee
+2016-07-02 00:24:34	--	Mód &bitlbee [+v LucieSaraJurcova] od localhost
+2016-07-02 00:24:34	-->	JirkaHorak (100000545547738@facebook) has joined &bitlbee
+2016-07-02 00:24:34	--	Mód &bitlbee [+v JirkaHorak] od localhost
+2016-07-02 00:24:34	-->	MiroslavMolinek (100000330652683@facebook) has joined &bitlbee
+2016-07-02 00:24:34	--	Mód &bitlbee [+v MiroslavMolinek] od localhost
+2016-07-02 00:24:34	-->	AdamStohandl (100000546918582@facebook) has joined &bitlbee
+2016-07-02 00:24:34	--	Mód &bitlbee [+v AdamStohandl] od localhost
+2016-07-02 00:24:34	-->	RadekLandkamer (100000153902276@facebook) has joined &bitlbee
+2016-07-02 00:24:34	--	Mód &bitlbee [+v RadekLandkamer] od localhost
+2016-07-02 00:24:34	-->	VasekHousePatocka (1805996011@facebook) has joined &bitlbee
+2016-07-02 00:24:34	--	Mód &bitlbee [+v VasekHousePatocka] od localhost
+2016-07-02 00:24:34	-->	JiriMucka (1292051661@facebook) has joined &bitlbee
+2016-07-02 00:24:34	--	Mód &bitlbee [+v JiriMucka] od localhost
+2016-07-02 00:24:34	-->	OndrejAegnorBrinek (1741831391@facebook) has joined &bitlbee
+2016-07-02 00:24:34	--	Mód &bitlbee [+v OndrejAegnorBrinek] od localhost
+2016-07-02 00:24:34	-->	AlexandraSujanska (1504510497@facebook) has joined &bitlbee
+2016-07-02 00:24:34	--	Mód &bitlbee [+v AlexandraSujanska] od localhost
+2016-07-02 00:24:34	-->	JanMuller (100000027627495@facebook) has joined &bitlbee
+2016-07-02 00:24:34	--	Mód &bitlbee [+v JanMuller] od localhost
+2016-07-02 00:24:34	-->	DavidMichalik (1837387727@facebook) has joined &bitlbee
+2016-07-02 00:24:34	--	Mód &bitlbee [+v DavidMichalik] od localhost
+2016-07-02 00:24:34	-->	RadekKarnik (1766522508@facebook) has joined &bitlbee
+2016-07-02 00:24:34	--	Mód &bitlbee [+v RadekKarnik] od localhost
+2016-07-02 00:24:34	-->	MichaelLapcik (1395805878@facebook) has joined &bitlbee
+2016-07-02 00:24:34	--	Mód &bitlbee [+v MichaelLapcik] od localhost
+2016-07-02 00:24:34	-->	MarekRusnak (1258046264@facebook) has joined &bitlbee
+2016-07-02 00:24:34	--	Mód &bitlbee [+v MarekRusnak] od localhost
+2016-07-02 00:24:34	@root	facebook - Logging in: Logged in
+2016-07-02 00:24:47	<--	TomasKovarik (1632087228@facebook) skončil (Leaving...)
+2016-07-02 00:24:56	@mort	acc add jabber balthmort@gmail.com
+2016-07-02 00:24:56	@root	Account successfully added with tag gtalk
+2016-07-02 00:24:56	@root	You can now use the /OPER command to enter the password
+2016-07-02 00:24:56	@root	Alternatively, enable OAuth if the account supports it: account gtalk set oauth on
+2016-07-02 00:25:09	@mort	acc set jabber oauth on
+2016-07-02 00:25:09	@root	Could not find account `set'.
+2016-07-02 00:25:25	@mort	acc jabber set oauth on
+2016-07-02 00:25:25	@root	oauth = `on'
+2016-07-02 00:25:27	<--	LubomirFriml (1611033063@facebook) skončil (Leaving...)
+2016-07-02 00:25:29	<--	MiroslavMolinek (100000330652683@facebook) skončil (Leaving...)
+2016-07-02 00:25:37	<--	VasekHousePatocka (1805996011@facebook) skončil (Leaving...)
+2016-07-02 00:25:40	@mort	acc jabber on
+2016-07-02 00:25:40	@root	jabber - Logging in: Starting OAuth authentication
+2016-07-02 00:26:20	@root	jabber - Logging in: Requesting OAuth access token
+2016-07-02 00:26:21	@root	jabber - Login error: OAuth failure (invalid_grant)
+2016-07-02 00:26:21	@root	jabber - Logging in: Signing off..
+2016-07-02 00:26:21	@root	jabber - Logging in: Reconnecting in 5 seconds..
+2016-07-02 00:26:26	@root	jabber - Logging in: Starting OAuth authentication
+2016-07-02 00:26:26	<--	DavidMichalik (1837387727@facebook) skončil (Leaving...)
+2016-07-02 00:26:37	-->	MartinReDaPatocka (100003658631299@facebook) has joined &bitlbee
+2016-07-02 00:26:37	--	Mód &bitlbee [+v MartinReDaPatocka] od localhost
+2016-07-02 00:27:05	<--	LucieSaraJurcova (1513008308@facebook) skončil (Leaving...)
+2016-07-02 00:27:05	<--	JiriMucka (1292051661@facebook) skončil (Leaving...)
+2016-07-02 00:27:05	<--	RadekKarnik (1766522508@facebook) skončil (Leaving...)
+2016-07-02 00:27:05	<--	MichaelLapcik (1395805878@facebook) skončil (Leaving...)
+2016-07-02 00:27:05	<--	MarekRusnak (1258046264@facebook) skončil (Leaving...)
+2016-07-02 00:27:11	@root	jabber - Logging in: Requesting OAuth access token
+2016-07-02 00:27:11	@root	jabber - Logging in: Connecting
+2016-07-02 00:27:11	@root	jabber - Logging in: Connected to server, logging in
+2016-07-02 00:27:11	@root	jabber - Logging in: Converting stream to TLS
+2016-07-02 00:27:11	@root	jabber - Logging in: Connected to server, logging in
+2016-07-02 00:27:11	@root	jabber - Logging in: Authentication finished
+2016-07-02 00:27:11	@root	jabber - Logging in: Server changed session resource string to `BitlBee39BE5B08'
+2016-07-02 00:27:11	@root	jabber - Logging in: Authenticated, requesting buddy list
+2016-07-02 00:27:11	@root	jabber - Logging in: Logged in
+2016-07-02 00:27:12	-->	_2hy437gq6ahyh1j6q0184s (2hy437gq6ahyh1j6q0184sevgz@public.talk.google.com) has joined &bitlbee
+2016-07-02 00:27:12	-->	stepanvenclik (stepan.venclik@gmail.com) has joined &bitlbee
+2016-07-02 00:27:55	--	irc: odpojen od serveru
+2016-07-02 00:27:59	-->	mort (mort@localhost) has joined &bitlbee
+2016-07-02 00:27:59	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-07-02 00:27:59	--	Téma nastavil root (root@localhost) v So, 02 čec 2016 00:27:59
+2016-07-02 00:27:59	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-07-02 00:27:59	@root	Welcome to the BitlBee gateway!
+2016-07-02 00:27:59	@root	 
+2016-07-02 00:27:59	@root	Running BitlBee-LIBPURPLE 3.4.2
+2016-07-02 00:27:59	@root	 
+2016-07-02 00:27:59	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-07-02 00:27:59	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-07-02 00:27:59	@root	The nick is (probably) not registered
+2016-07-02 00:28:09	@mort	acc list
+2016-07-02 00:28:09	@root	End of account list
+2016-07-02 00:28:50	@mort	register Md954753
+2016-07-02 00:28:50	@root	Account successfully created
+2016-07-02 00:29:22	@mort	acc add facebook balthmort@gmail.com Md954753
+2016-07-02 00:29:22	@root	Account successfully added with tag facebook
+2016-07-02 00:29:28	@mort	acc facebook on
+2016-07-02 00:29:28	@root	facebook - Logging in: Authenticating
+2016-07-02 00:29:30	@root	facebook - Logging in: Fetching contacts
+2016-07-02 00:29:31	@root	facebook - Logging in: Connecting
+2016-07-02 00:29:32	-->	MartinReDaPatocka (100003658631299@facebook) has joined &bitlbee
+2016-07-02 00:29:32	--	Mód &bitlbee [+v MartinReDaPatocka] od localhost
+2016-07-02 00:29:32	-->	VojtechVolak (100002293110115@facebook) has joined &bitlbee
+2016-07-02 00:29:32	--	Mód &bitlbee [+v VojtechVolak] od localhost
+2016-07-02 00:29:32	-->	JiriSochor (1744654341@facebook) has joined &bitlbee
+2016-07-02 00:29:32	--	Mód &bitlbee [+v JiriSochor] od localhost
+2016-07-02 00:29:32	-->	VaclavSasinka (100000663099584@facebook) has joined &bitlbee
+2016-07-02 00:29:32	--	Mód &bitlbee [+v VaclavSasinka] od localhost
+2016-07-02 00:29:32	-->	FrantisekBjalek (100000254303436@facebook) has joined &bitlbee
+2016-07-02 00:29:32	--	Mód &bitlbee [+v FrantisekBjalek] od localhost
+2016-07-02 00:29:32	-->	JirkaHorak (100000545547738@facebook) has joined &bitlbee
+2016-07-02 00:29:32	--	Mód &bitlbee [+v JirkaHorak] od localhost
+2016-07-02 00:29:32	-->	AdamStohandl (100000546918582@facebook) has joined &bitlbee
+2016-07-02 00:29:32	--	Mód &bitlbee [+v AdamStohandl] od localhost
+2016-07-02 00:29:32	-->	VasekHousePatocka (1805996011@facebook) has joined &bitlbee
+2016-07-02 00:29:32	--	Mód &bitlbee [+v VasekHousePatocka] od localhost
+2016-07-02 00:29:32	-->	OndrejAegnorBrinek (1741831391@facebook) has joined &bitlbee
+2016-07-02 00:29:32	--	Mód &bitlbee [+v OndrejAegnorBrinek] od localhost
+2016-07-02 00:29:32	-->	AlexandraSujanska (1504510497@facebook) has joined &bitlbee
+2016-07-02 00:29:33	--	Mód &bitlbee [+v AlexandraSujanska] od localhost
+2016-07-02 00:29:33	-->	VladimirPokorny (100006584949068@facebook) has joined &bitlbee
+2016-07-02 00:29:33	--	Mód &bitlbee [+v VladimirPokorny] od localhost
+2016-07-02 00:29:33	@root	facebook - Logging in: Logged in
+2016-07-02 00:29:36	@mort	acc add jabber balthmort@gmail.com
+2016-07-02 00:29:36	@root	Account successfully added with tag gtalk
+2016-07-02 00:29:36	@root	You can now use the /OPER command to enter the password
+2016-07-02 00:29:36	@root	Alternatively, enable OAuth if the account supports it: account gtalk set oauth on
+2016-07-02 00:29:45	@mort	ass jabber set oauth on
+2016-07-02 00:29:45	@root	Unknown command: ass. Please use help commands to get a list of available commands.
+2016-07-02 00:29:53	@mort	ass jabber set oauth on
+2016-07-02 00:29:53	@root	Unknown command: ass. Please use help commands to get a list of available commands.
+2016-07-02 00:29:58	<--	AdamStohandl (100000546918582@facebook) skončil (Leaving...)
+2016-07-02 00:29:58	@mort	acc jabber set oauth on
+2016-07-02 00:29:58	@root	oauth = `on'
+2016-07-02 00:30:16	@mort	acc jabber on
+2016-07-02 00:30:16	@root	jabber - Logging in: Starting OAuth authentication
+2016-07-02 00:30:37	-->	MartinHolcik (100005841967425@facebook) has joined &bitlbee
+2016-07-02 00:30:37	--	Mód &bitlbee [+v MartinHolcik] od localhost
+2016-07-02 00:30:38	<--	MartinReDaPatocka (100003658631299@facebook) skončil (Leaving...)
+2016-07-02 00:30:57	<--	VasekHousePatocka (1805996011@facebook) skončil (Leaving...)
+2016-07-02 00:31:03	@root	jabber - Logging in: Requesting OAuth access token
+2016-07-02 00:31:03	@root	jabber - Logging in: Connecting
+2016-07-02 00:31:03	@root	jabber - Logging in: Connected to server, logging in
+2016-07-02 00:31:03	@root	jabber - Logging in: Converting stream to TLS
+2016-07-02 00:31:04	@root	jabber - Logging in: Connected to server, logging in
+2016-07-02 00:31:04	@root	jabber - Logging in: Authentication finished
+2016-07-02 00:31:04	@root	jabber - Logging in: Server changed session resource string to `BitlBee6B2B4F03'
+2016-07-02 00:31:04	@root	jabber - Logging in: Authenticated, requesting buddy list
+2016-07-02 00:31:04	@root	jabber - Logging in: Logged in
+2016-07-02 00:31:04	-->	stepanvenclik (stepan.venclik@gmail.com) has joined &bitlbee
+2016-07-02 00:31:04	-->	_2hy437gq6ahyh1j6q0184s (2hy437gq6ahyh1j6q0184sevgz@public.talk.google.com) has joined &bitlbee
+2016-07-02 00:31:28	--	irc: odpojen od serveru
+2016-07-02 00:31:30	-->	mort (mort@localhost) has joined &bitlbee
+2016-07-02 00:31:30	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-07-02 00:31:30	--	Téma nastavil root (root@localhost) v So, 02 čec 2016 00:31:30
+2016-07-02 00:31:30	--	Channel &bitlbee: 2 přezdívky (2 opi, 0 částečných-opů, 0 voiců, 0 normálních)
+2016-07-02 00:31:30	@root	Welcome to the BitlBee gateway!
+2016-07-02 00:31:30	@root	 
+2016-07-02 00:31:30	@root	Running BitlBee-LIBPURPLE 3.4.2
+2016-07-02 00:31:30	@root	 
+2016-07-02 00:31:30	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-07-02 00:31:30	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-07-02 00:31:30	@root	otr: starting background keygen for balthmort@gmail.com/facebook
+2016-07-02 00:31:30	@root	otr: starting background keygen for balthmort@gmail.com/jabber
+2016-07-02 00:31:30	@root	Notice: The accounts above do not have OTR encryption keys associated with them, yet. These keys are now being generated in the background. You will be notified as they are completed. It is not necessary to wait; BitlBee can be used normally during key generation. You may safely ignore this message if you don't know what OTR is. ;)
+2016-07-02 00:31:30	@root	Password accepted, settings and accounts loaded
+2016-07-02 00:31:31	@root	otr keygen for balthmort@gmail.com/facebook complete
+2016-07-02 00:31:31	@root	Trying to get all accounts connected...
+2016-07-02 00:31:31	@root	facebook - Logging in: Fetching contacts
+2016-07-02 00:31:31	@root	otr keygen for balthmort@gmail.com/jabber complete
+2016-07-02 00:31:31	@root	jabber - Logging in: Connecting
+2016-07-02 00:31:31	@root	jabber - Logging in: Connected to server, logging in
+2016-07-02 00:31:31	@root	jabber - Logging in: Converting stream to TLS
+2016-07-02 00:31:31	@root	jabber - Logging in: Connected to server, logging in
+2016-07-02 00:31:31	@root	jabber - Logging in: Authentication finished
+2016-07-02 00:31:31	@root	jabber - Logging in: Server changed session resource string to `BitlBee92884807'
+2016-07-02 00:31:31	@root	jabber - Logging in: Authenticated, requesting buddy list
+2016-07-02 00:31:31	@root	jabber - Logging in: Logged in
+2016-07-02 00:31:31	-->	stepanvenclik (stepan.venclik@gmail.com) has joined &bitlbee
+2016-07-02 00:31:31	-->	_2hy437gq6ahyh1j6q0184s (2hy437gq6ahyh1j6q0184sevgz@public.talk.google.com) has joined &bitlbee
+2016-07-02 00:31:33	@root	facebook - Logging in: Connecting
+2016-07-02 00:31:34	@root	facebook - Logging in: Logged in
+2016-07-02 00:31:34	-->	VojtechVolak (100002293110115@facebook) has joined &bitlbee
+2016-07-02 00:31:34	--	Mód &bitlbee [+v VojtechVolak] od localhost
+2016-07-02 00:31:34	-->	JiriSochor (1744654341@facebook) has joined &bitlbee
+2016-07-02 00:31:34	--	Mód &bitlbee [+v JiriSochor] od localhost
+2016-07-02 00:31:34	-->	VaclavSasinka (100000663099584@facebook) has joined &bitlbee
+2016-07-02 00:31:34	--	Mód &bitlbee [+v VaclavSasinka] od localhost
+2016-07-02 00:31:34	-->	FrantisekBjalek (100000254303436@facebook) has joined &bitlbee
+2016-07-02 00:31:34	--	Mód &bitlbee [+v FrantisekBjalek] od localhost
+2016-07-02 00:31:34	-->	MaraPicha (1774740500@facebook) has joined &bitlbee
+2016-07-02 00:31:34	--	Mód &bitlbee [+v MaraPicha] od localhost
+2016-07-02 00:31:34	-->	MartinHolcik (100005841967425@facebook) has joined &bitlbee
+2016-07-02 00:31:34	--	Mód &bitlbee [+v MartinHolcik] od localhost
+2016-07-02 00:31:34	-->	OndrejAegnorBrinek (1741831391@facebook) has joined &bitlbee
+2016-07-02 00:31:34	--	Mód &bitlbee [+v OndrejAegnorBrinek] od localhost
+2016-07-02 00:31:34	-->	AlexandraSujanska (1504510497@facebook) has joined &bitlbee
+2016-07-02 00:31:34	--	Mód &bitlbee [+v AlexandraSujanska] od localhost
+2016-07-02 00:31:34	-->	MarekRusnak (1258046264@facebook) has joined &bitlbee
+2016-07-02 00:31:34	--	Mód &bitlbee [+v MarekRusnak] od localhost
+2016-07-02 00:31:34	-->	VladimirPokorny (100006584949068@facebook) has joined &bitlbee
+2016-07-02 00:31:34	--	Mód &bitlbee [+v VladimirPokorny] od localhost
+2016-07-02 00:31:59	-->	MichalSebesta (1326472519@facebook) has joined &bitlbee
+2016-07-02 00:31:59	--	Mód &bitlbee [+v MichalSebesta] od localhost
+2016-07-02 00:32:08	<--	AlexandraSujanska (1504510497@facebook) skončil (Leaving...)
+2016-07-02 00:32:09	-->	MiroslavMolinek (100000330652683@facebook) has joined &bitlbee
+2016-07-02 00:32:09	--	Mód &bitlbee [+v MiroslavMolinek] od localhost
+2016-07-02 00:32:36	-->	VasekHousePatocka (1805996011@facebook) has joined &bitlbee
+2016-07-02 00:32:36	--	Mód &bitlbee [+v VasekHousePatocka] od localhost
+2016-07-02 00:32:37	<--	MartinHolcik (100005841967425@facebook) skončil (Leaving...)
+2016-07-02 00:32:57	-->	AlexandraSujanska (1504510497@facebook) has joined &bitlbee
+2016-07-02 00:32:57	--	Mód &bitlbee [+v AlexandraSujanska] od localhost
+2016-07-02 00:33:28	<--	OndrejAegnorBrinek (1741831391@facebook) skončil (Leaving...)
+2016-07-02 00:33:35	<--	VojtechVolak (100002293110115@facebook) skončil (Leaving...)
+2016-07-02 00:34:04	<--	VaclavSasinka (100000663099584@facebook) skončil (Leaving...)
+2016-07-02 00:34:04	-->	PavelDovrtel (1121933045@facebook) has joined &bitlbee
+2016-07-02 00:34:04	--	Mód &bitlbee [+v PavelDovrtel] od localhost
+2016-07-02 00:34:04	<--	MaraPicha (1774740500@facebook) skončil (Leaving...)
+2016-07-02 00:34:04	-->	ZdenekRiha (100000002764249@facebook) has joined &bitlbee
+2016-07-02 00:34:04	--	Mód &bitlbee [+v ZdenekRiha] od localhost
+2016-07-02 00:34:04	<--	MarekRusnak (1258046264@facebook) skončil (Leaving...)
+2016-07-02 00:34:04	<--	VladimirPokorny (100006584949068@facebook) skončil (Leaving...)
+2016-07-02 00:34:07	-->	TomasKovarik (1632087228@facebook) has joined &bitlbee
+2016-07-02 00:34:07	--	Mód &bitlbee [+v TomasKovarik] od localhost
+2016-07-02 00:34:15	--	irc: odpojen od serveru

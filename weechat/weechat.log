@@ -1,37 +1,34 @@
-[2016-06-29 19:07:21] WeeChat 1.5 (kompilováno Jun  5 2016 16:20:35)
-[2016-06-29 19:07:21] Načítám konfigurační soubor sec.conf
-[2016-06-29 19:07:21] Načítám konfigurační soubor weechat.conf
-[2016-06-29 19:07:21] Načítám konfigurační soubor plugins.conf
-[2016-06-29 19:07:22] Načítám konfigurační soubor charset.conf
-[2016-06-29 19:07:22] Načítám konfigurační soubor logger.conf
-[2016-06-29 19:07:22] Načítám konfigurační soubor exec.conf
-[2016-06-29 19:07:22] Načítám konfigurační soubor trigger.conf
-[2016-06-29 19:07:22] Načítám konfigurační soubor aspell.conf
-[2016-06-29 19:07:22] Načítám konfigurační soubor alias.conf
-[2016-06-29 19:07:22] Načítám konfigurační soubor xfer.conf
-[2016-06-29 19:07:22] Načítám konfigurační soubor irc.conf
-[2016-06-29 19:07:22] Načítám konfigurační soubor relay.conf
-[2016-06-29 19:07:22] Načítám konfigurační soubor buffers.conf
-[2016-06-29 19:07:22] Načítám konfigurační soubor iset.conf
-[2016-06-29 19:07:24] Načítám konfigurační soubor theme.conf
-[2016-06-29 19:07:24] Načítám konfigurační soubor script.conf
-[2016-06-29 19:07:24] irc: connecting to server localhost/6667...
-[2016-06-29 19:52:33] Obdržen signál SIGTERM, ukončuji WeeChat...
-[2016-06-29 19:52:33] Zapisuji soubor s nastavením plugins.conf
-[2016-06-29 19:52:33] Obdržen signál SIGHUP, ukončuji WeeChat...
-[2016-06-29 19:52:33] Zapisuji soubor s nastavením xfer.conf
-[2016-06-29 19:52:33] Zapisuji soubor s nastavením trigger.conf
-[2016-06-29 19:52:33] Zapisuji soubor s nastavením script.conf
-[2016-06-29 19:52:33] Obdržen signál SIGHUP, ukončuji WeeChat...
-[2016-06-29 19:52:33] Zapisuji soubor s nastavením relay.conf
-[2016-06-29 19:52:33] Zapisuji soubor s nastavením theme.conf
-[2016-06-29 19:52:33] Zapisuji soubor s nastavením buffers.conf
-[2016-06-29 19:52:33] Zapisuji soubor s nastavením iset.conf
-[2016-06-29 19:52:33] Zapisuji soubor s nastavením logger.conf
-[2016-06-29 19:52:33] Zapisuji soubor s nastavením irc.conf
-[2016-06-29 19:52:33] Zapisuji soubor s nastavením exec.conf
-[2016-06-29 19:52:33] Zapisuji soubor s nastavením charset.conf
-[2016-06-29 19:52:33] Zapisuji soubor s nastavením aspell.conf
-[2016-06-29 19:52:33] Zapisuji soubor s nastavením alias.conf
-[2016-06-29 19:52:33] Zapisuji soubor s nastavením weechat.conf
-[2016-06-29 19:52:33] Zapisuji soubor s nastavením sec.conf
+[2016-07-02 00:31:30] WeeChat 1.5 (kompilováno Jun  5 2016 16:20:35)
+[2016-07-02 00:31:30] Načítám konfigurační soubor sec.conf
+[2016-07-02 00:31:30] Načítám konfigurační soubor weechat.conf
+[2016-07-02 00:31:30] Načítám konfigurační soubor plugins.conf
+[2016-07-02 00:31:30] Načítám konfigurační soubor charset.conf
+[2016-07-02 00:31:30] Načítám konfigurační soubor logger.conf
+[2016-07-02 00:31:30] Načítám konfigurační soubor exec.conf
+[2016-07-02 00:31:30] Načítám konfigurační soubor trigger.conf
+[2016-07-02 00:31:30] Načítám konfigurační soubor aspell.conf
+[2016-07-02 00:31:30] Načítám konfigurační soubor alias.conf
+[2016-07-02 00:31:30] Načítám konfigurační soubor xfer.conf
+[2016-07-02 00:31:30] Načítám konfigurační soubor irc.conf
+[2016-07-02 00:31:30] Načítám konfigurační soubor relay.conf
+[2016-07-02 00:31:30] Načítám konfigurační soubor buffers.conf
+[2016-07-02 00:31:30] Načítám konfigurační soubor iset.conf
+[2016-07-02 00:31:30] Načítám konfigurační soubor theme.conf
+[2016-07-02 00:31:30] Načítám konfigurační soubor script.conf
+[2016-07-02 00:31:30] irc: connecting to server localhost/6667...
+[2016-07-02 00:34:15] Zapisuji soubor s nastavením plugins.conf
+[2016-07-02 00:34:15] Zapisuji soubor s nastavením alias.conf
+[2016-07-02 00:34:15] Zapisuji soubor s nastavením trigger.conf
+[2016-07-02 00:34:15] Zapisuji soubor s nastavením theme.conf
+[2016-07-02 00:34:15] Zapisuji soubor s nastavením irc.conf
+[2016-07-02 00:34:15] Zapisuji soubor s nastavením buffers.conf
+[2016-07-02 00:34:15] Zapisuji soubor s nastavením iset.conf
+[2016-07-02 00:34:15] Zapisuji soubor s nastavením relay.conf
+[2016-07-02 00:34:15] Zapisuji soubor s nastavením xfer.conf
+[2016-07-02 00:34:15] Zapisuji soubor s nastavením charset.conf
+[2016-07-02 00:34:15] Zapisuji soubor s nastavením exec.conf
+[2016-07-02 00:34:15] Zapisuji soubor s nastavením aspell.conf
+[2016-07-02 00:34:15] Zapisuji soubor s nastavením logger.conf
+[2016-07-02 00:34:15] Zapisuji soubor s nastavením script.conf
+[2016-07-02 00:34:15] Zapisuji soubor s nastavením weechat.conf
+[2016-07-02 00:34:15] Zapisuji soubor s nastavením sec.conf
