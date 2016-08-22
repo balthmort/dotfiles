@@ -169,7 +169,7 @@ bar {
 }
 
 #Sleep/hibernate/etc.
-set $Locker i3lock -i ~/system/dotfiles/misc/The-darkness-wall.png && sleep 1
+set $Locker i3lock -i ~/system/dotfiles/misc/portal.png && sleep 1
 
 set $mode_system System (l) lock, (e) logout, (s) suspend, (h) hibernate, (r) reboot, (Shift+s) shutdown
 mode "$mode_system" {

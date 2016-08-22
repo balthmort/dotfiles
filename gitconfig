@@ -1,5 +1,6 @@
 [core]
   pager = less -SR
+	editor = vim
 
 [merge]
   conflictstyle = diff3
