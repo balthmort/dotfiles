@@ -1,9 +1,10 @@
 [core]
   pager = less -SR
-	editor = vim
+  editor = vim
 
 [merge]
   conflictstyle = diff3
+  tool = vimdiff3
 
 [push]
   default = current
