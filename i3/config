@@ -30,7 +30,7 @@ font pango:Inconsolata 8
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec st
+#bindsym $mod+Return exec st
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -99,6 +99,7 @@ set $doc    3: doc
 set $mail   4: mail
 set $games  5: games
 set $chat   6: chat
+set $music  7: music
 
 # switch to workspac
 bindsym $mod+plus   workspace $code
@@ -107,7 +108,7 @@ bindsym $mod+scaron workspace $doc
 bindsym $mod+ccaron workspace $mail
 bindsym $mod+rcaron workspace $games
 bindsym $mod+zcaron workspace $chat
-bindsym $mod+yacute workspace 7
+bindsym $mod+yacute workspace $music
 bindsym $mod+aacute workspace 8
 bindsym $mod+iacute workspace 9
 bindsym $mod+eacute workspace 10
@@ -120,7 +121,7 @@ bindsym $mod+Shift+scaron move container to workspace $doc
 bindsym $mod+Shift+ccaron move container to workspace $mail
 bindsym $mod+Shift+rcaron move container to workspace $games
 bindsym $mod+Shift+zcaron move container to workspace $chat
-bindsym $mod+Shift+yacute move container to workspace 7
+bindsym $mod+Shift+yacute move container to workspace $music
 bindsym $mod+Shift+aacute move container to workspace 8
 bindsym $mod+Shift+iacute move container to workspace 9
 bindsym $mod+Shift+eacute move container to workspace 10
@@ -195,6 +196,7 @@ assign [title="LibreOffice"]    $doc
 assign [class="^Thunderbird$"]  $mail
 assign [class="chat"]           $chat
 assign [class="[sS]team"]       $games
+assign [class="Spotify"]       $music
 
 
 #exec on start
