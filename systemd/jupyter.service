@@ -1,9 +1,0 @@
-[Unit]
-Description=Jupyter notebook server
-
-[Service]
-Type=simple
-ExecStart=/usr/bin/jupyter notebook --no-browser --notebook-dir=documents/notebooks
-
-[Install]
-WantedBy=default.target

@@ -21,11 +21,6 @@
     ~/.zlogin: zsh/04-zlogin
     ~/.zlogout: zsh/05-zlogout
     
-    # Weechat
-    ~/.weechat:
-      force: true
-      path: weechat
-
     # dunst
     ~/.config/dunst/dunstrc:
       create: true
@@ -78,12 +73,6 @@
       path: udiskie/udiskie.service
       create: true
 
-    #openbox
-    ~/.config/openbox: openbox
-
-    #tint2
-    ~/.config/tint2: tint2
-
     #vifm
     ~/.config/vifm: vifm
 
@@ -95,9 +84,6 @@
     
     # XCompose
     ~/.XCompose: XCompose
-    
-    # latexmk
-    ~/.latexmkrc: latexmkrc
     
     #i3
     ~/.config/i3/config: 
