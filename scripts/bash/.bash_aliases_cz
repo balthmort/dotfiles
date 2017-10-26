@@ -1,0 +1,132 @@
+
+function cz {
+    name=$1
+    if [ "x$1" == "x" ] 
+    then 
+        name="fpfilko"
+    fi
+    shift 1
+    if [ "x$1" == "xo" ]
+    then
+        addr="$name.ovirt.czechglobe.cz"
+        shift 1
+    elif [ "x$1" == 'xz' ]
+    then
+        addr="$name.czechglobe.cz"
+        shift 1
+    elif [ "x$1" == 'xl' ]
+    then
+        addr="$name.lep.brno.cas.cz"
+        shift 1
+    elif [ "x$1" == 'xm' ]
+    then
+        addr="$name.mgmt.czechglobe.cz"
+        shift 1
+    elif [ "x$1" == 'xiz' ]
+    then
+        addr="147.231.201.$name"
+        shift 1
+    elif [ "x$1" == 'xii' ]
+    then
+        addr="172.$name"
+        shift 1
+    elif [ "x$1" == 'xi' ]
+    then
+        addr="192.168.$name"
+        shift 1
+    else 
+        addr="$name.local.czechglobe.cz"
+    fi
+    user="pokryvka.f"
+    ch=false
+    if ( echo "$1" | grep -i -q "\(root\|admin\|pokryvka\|^pc$\)")
+    then
+        user=$1
+        ch=true
+        shift 1
+    fi
+    if $ch; then
+        echo "ssh $@ $user@$addr"
+        ssh $@ $user@$addr
+    elif ! ssh $@ -t -o PasswordAuthentication=no $user@$addr sudo su -
+    then
+        echo "ssh $@ root@$addr"
+        ssh $@ root@$addr
+    fi
+        
+    user=
+    name=
+    addr=
+}
+
+function czp {
+    name=$1
+    if [ "x$1" == "x" ] 
+    then 
+        name="fpfilko"
+    fi
+    shift 1
+    if [ "x$1" == "xo" ]
+    then
+        addr="$name.ovirt.czechglobe.cz"
+        shift 1
+    elif [ "x$1" == 'xz' ]
+    then
+        addr="$name.czechglobe.cz"
+        shift 1
+    elif [ "x$1" == 'xiz' ]
+    then
+        addr="147.231.201.$name"
+        shift 1
+    elif [ "x$1" == 'xii' ]
+    then
+        addr="172.$name"
+        shift 1
+    elif [ "x$1" == 'xi' ]
+    then
+        addr="192.168.$name"
+        shift 1
+    else 
+        addr="$name.local.czechglobe.cz"
+    fi
+    echo "ping $@ $addr"
+    ping $@ $addr
+    name=
+    addr=
+}
+
+function czf {
+    name=$1
+    if [ "x$1" == "x" ] 
+    then 
+        name="fpfilko"
+    fi
+    shift 1
+    if [ "x$1" == "xo" ]
+    then
+        addr="$name.ovirt.czechglobe.cz"
+        shift 1
+    elif [ "x$1" == 'xz' ]
+    then
+        addr="$name.czechglobe.cz"
+        shift 1
+    elif [ "x$1" == 'xiz' ]
+    then
+        addr="147.231.201.$name"
+        shift 1
+    elif [ "x$1" == 'xii' ]
+    then
+        addr="172.$name"
+        shift 1
+    elif [ "x$1" == 'xi' ]
+    then
+        addr="192.168.$name"
+        shift 1
+    else 
+        addr="$name.local.czechglobe.cz"
+    fi
+    echo "ssh-keygen -R $addr"
+    ssh-keygen -R $addr
+    name=
+    addr=
+}

@@ -1,0 +1,86 @@
+#
+#  Completion for foo:
+#
+#  foo file [filename]
+#  foo hostname [hostname]
+#
+_cz() 
+{
+    local cur prev prevp opts optss names repl
+    names="pokryvkaf pc root pokryvka.f"
+    COMPREPLY=()
+    cur="${COMP_WORDS[COMP_CWORD]}"
+    prev="${COMP_WORDS[COMP_CWORD-1]}"
+    prevp="${COMP_WORDS[COMP_CWORD-2]}"
+    opts="$(cat /etc/cz | grep -o ' [^:]\+ ' | tr '\n' ' ')"
+    optss=
+    if grep "^:" /etc/cz | grep -q " $prev " ; then
+        optss="$names"
+    fi
+    if grep "^z:" /etc/cz | grep -q " $prev " ; then
+        optss="${optss:+$optss }z"
+    fi
+    if grep "^m:" /etc/cz | grep -q " $prev " ; then
+        if [ "x$optss" = "x" ]; then 
+            repl="m admin"
+        else
+            optss="${optss:+$optss }m"
+        fi
+    fi
+    if grep "^o:" /etc/cz | grep -q " $prev " ; then
+        optss="${optss:+$optss }o"
+    fi
+    if echo "$prev" | grep -q "^[0-9.]\+";then
+        optss="${optss:+$optss }i"
+    fi 
+    if echo "$prev" | grep -q "^[1-2][0-9][0-9]";then
+        optss="${optss:+$optss }iz"
+    fi
+    
+    case "$prev" in
+        pokryvka.f)
+            opts=""
+            ;;
+        pokryvkaf)
+            opts=""
+            ;;
+        pc)
+            opts=""
+            ;;
+        root)
+            opts=""
+            ;;
+        z)
+            opts="$names"
+            ;;
+        l)
+            opts="$names"
+            ;;
+        iz)
+            opts="$names"
+            ;;
+        i)
+            opts="$names"
+            ;;
+        o)
+            ;;
+        m)
+            repl="admin"
+            ;;
+	radegast)
+            repl="z -p 4222"
+            ;;
+        *)
+        ;;
+    esac
+    if [ "x$repl" != "x" ]; then
+    	COMPREPLY=( "$repl" )
+    elif [ "x$optss" != "x" ]; then
+        COMPREPLY=( $(compgen -W "${optss}" -- ${cur}) )
+    else
+        COMPREPLY=( $(compgen -W "${opts}" -- ${cur}) )
+    fi
+}
+complete -F _cz cz
+complete -F _cz czp
+complete -F _cz czf

@@ -1,0 +1,13 @@
+Nakopírovať súbory:
+cp .bash_aliases ~
+sudo cp cz /etc/bash_completion.d/
+
+uistiť sa, že sa súbor .bash_aliases importuje v .bashrc
+
+spustiť update_cz_dns.sh (bude žiadať heslo na zdar a dactive).
+
+otvoriť nový bash, malo by fungovať dopĺňanie pre "cz" a "czp" pomocou tab, za server sa automaticky doplnia písmena "z" a "m", pokiaľ sú jednoznačné
+
+skriptom update_cz_dns.sh sa aktualizuje databáza serverov pre dopĺňanie.
+
+odporúčam nahradiť výskyty pc, pokryvkaf a pokryvka.f vlastným užívateľským menom, týka sa to súborov cz a .bash_aliases, taktiež upraviť premennú WIFI_DEV
